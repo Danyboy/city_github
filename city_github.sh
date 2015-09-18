@@ -22,7 +22,7 @@ var=0
 	pqreq="${pqdata}=${var}"
         wget -O - "$site"$pqreq | \
         iconv -f windows-1250 -t utf-8 | \
-        egrep -Eo "(<font color=\"black\">[^<-]+</font>|<td class=\"row[12]\" align=\"right\">[0-9 ]+</td>)" | \
+        egrep -Eo "(<font color=\"black\">[^<1]+</font>|<td class=\"row[12]\" align=\"right\">[0-9 ]+</td>)" | \
         paste - - | sed "s|<font color=\"black\">||g" | sed "s|</font>||g" | sed "s|<td class=\"row[12]\" align=\"right\">||g" | \
 	sed "s|</td>||g" | sed "s|(.*)||g" >> $city_people
 	var=$((var+1))
@@ -44,27 +44,20 @@ load_statistic(){
 my_merge(){
 
     while IFS=' ' read city; do
-#	echo "$city " 
-	#cat | tr -d " " |
 	grep -m 1 "$city" $city_people | tr -d "\n"
 	p=$( grep -m 1 "$city" $city_people | grep -Eo "[0-9 ]+" | tr -d " ")
-	#; echo $(($a / 1000))
 #	echo -en ' \t '
 	echo -en ' !!! '
-#	| sed "s|"$city"||g" 
 	g=$(grep -m 1 "$city" $city_github_user | sed "s|"$city"||g")
-	
 	echo -en "$g"
-	#$( grep "$city" $city_github_user | grep -Eo "[0-9]+")
 	echo -en ' !!! '
-#	echo "say (${g}/(${p}/1000))"
-	perl -E "say (${g}/(${p}/1000))" | cut -c1-7
-	#| tr -d "\n"
+	gr=$(echo $g | grep -m 1 -Eo "[0-9 ]+")
+	perl -E "say (${gr}/(${p}/1000))" | cut -c1-7
     done < city
     #city
 }
 
 #load_cities
-#load_people
+load_people
 #load_statistic
-my_merge
+#my_merge
