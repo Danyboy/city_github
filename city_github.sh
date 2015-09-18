@@ -57,7 +57,6 @@ my_merge(){
 	gr=$(echo $g | grep -m 1 -Eo "[0-9 ]+")
 	perl -E "say (${gr}/(${p}/1000))" | cut -c1-7
     done < city
-    #city
 }
 
 #load_cities
