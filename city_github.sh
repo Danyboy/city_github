@@ -18,6 +18,8 @@ load_people(){
 site="http://www.tiptopglobe.com/biggest-cities-world"
 pqdata="?p"
 var=0
+echo "City Population "  > $city_people
+
     for i in {1..10} ; do
 	pqreq="${pqdata}=${var}"
         wget -O - "$site"$pqreq | \
@@ -46,11 +48,12 @@ my_merge(){
     while IFS=' ' read city; do
 	grep -m 1 "$city" $city_people | tr -d "\n"
 	p=$( grep -m 1 "$city" $city_people | grep -Eo "[0-9 ]+" | tr -d " ")
-#	echo -en ' \t '
-	echo -en ' !!! '
+	echo -en ' \t '
+#	echo -en ' !!! '
 	g=$(grep -m 1 "$city" $city_github_user | sed "s|"$city"||g")
 	echo -en "$g"
-	echo -en ' !!! '
+	echo -en ' \t '
+#	echo -en ' !!! '
 	gr=$(echo $g | grep -m 1 -Eo "[0-9 ]+")
 	perl -E "say (${gr}/(${p}/1000))" | cut -c1-7
     done < city
@@ -58,6 +61,6 @@ my_merge(){
 }
 
 #load_cities
-load_people
+#load_people
 #load_statistic
-#my_merge
+my_merge
