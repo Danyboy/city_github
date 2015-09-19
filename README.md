@@ -3,7 +3,7 @@
 В сотню самых программирующих городов из прошлого рейтинга вошла только Москва, она занимает 90 место.
 
 Прошу любить, жаловать и анализировать (первая сотня):
-![alt tag](./calc/city_population_users_promile_sort_by_promile.html)
+https://github.com/Danyboy/city_github/blob/master/calc/city_population_users_promile_sort_by_promile.html
 
 Пост с таблицей из 1000 городов опубликоваться не смог, его можно посмотреть <a href="http://htmlpreview.github.io/?https://github.com/Danyboy/city_github/blob/master/calc/city_population_users_promile_sort_by_promile.html">тут</a>.
 
