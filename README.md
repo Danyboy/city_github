@@ -1,9 +1,9 @@
 По мотивам <a href="http://geektimes.ru/post/262692/">"Самые оупенсорсные города России"</a> проверил 1000 самых населённых городов мира на количество разработчиков имеющих аккаунт на гитхабе.
 
-В сотню самых программирующих городов из прошлого рейтинга вошла только Москва, она занимает 90 место.
+В сотню самых программирующих городов из прошлого рейтинга вошла только Москва, она занимает 90 место, а первые пять мест заняли америкаские города.
 
 Прошу любить, жаловать и анализировать (первая сотня):
-https://github.com/Danyboy/city_github/blob/master/calc/city_population_users_promile_sort_by_promile.html
+http://htmlpreview.github.io/?https://github.com/Danyboy/city_github/blob/master/calc/city_population_users_promile_sort_by_promile_first_100.html
 
 Пост с таблицей из 1000 городов опубликоваться не смог, его можно посмотреть <a href="http://htmlpreview.github.io/?https://github.com/Danyboy/city_github/blob/master/calc/city_population_users_promile_sort_by_promile.html">тут</a>.
 
