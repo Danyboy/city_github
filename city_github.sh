@@ -82,13 +82,13 @@ echo $first_string
 
 var=1
 
-    while IFS=' ' read city; do
+    while IFS=' ' read "city"; do
 	echo "<tr>"
 	my_echo "$var"
     	echo "<td align=\"left\">$(grep -m 1 "$city" $city_people | grep -Eo "[A-z -]+" | tr -d "\n")</td>"
 	p=$( grep -m 1 "$city" $city_people | grep -Eo "[0-9 ]+" | tr -d " ")
 	my_echo "$p"
-	g=$(grep -m 1 "$city" city_github_user | sed "s|"$city"||g")
+	g=$(cat city_github_user_per_language | cut -f 1,2 -d$'\t' | grep -m 1 "$city" | sed "s|$city||g")
 	my_echo "$g"
 	gr=$(echo $g | grep -m 1 -Eo "[0-9 ]+")
 	my_echo $(perl -E "say (${gr}/(${p}/1000))" | cut -c1-7)
@@ -96,11 +96,9 @@ var=1
 	echo "</tr>"
 	var=$((var+1))
 
-    done < city
+    done < city_manual_correct
 
 echo '</table>'
-
-
 }
 
 my_echo(){
