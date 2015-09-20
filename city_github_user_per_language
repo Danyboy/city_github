@@ -1,0 +1,1002 @@
+City   Users 'C#'  Java     PHP JavaScript Objective-C Ruby Python C++ C
+Tokyo  	 12776 	 212 	 896 	 804 	 1721 	 486 	 1491 	 585 	 378 	 379 
+Beijing Shi  	 9 	 0 	 2 	 1 	 3 	 1 	 0 	 0 	 0 	 2 
+Beijing  	 17132 	 327 	 2384 	 704 	 2644 	 900 	 611 	 1372 	 1052 	 1131 
+Shanghai  	 10941 	 306 	 1431 	 449 	 1771 	 505 	 523 	 800 	 581 	 659 
+Buenos Aires  	 3693 	 76 	 306 	 270 	 658 	 60 	 251 	 213 	 94 	 109 
+Bombay  	 80 	 0 	 8 	 6 	 7 	 1 	 2 	 6 	 5 	 2 
+Karachi  	 1016 	 27 	 62 	 71 	 150 	 22 	 19 	 14 	 7 	 10 
+Constantinople  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Mexico  	 5616 	 119 	 453 	 356 	 788 	 111 	 362 	 264 	 113 	 141 
+Delhi  	 5734 	 78 	 490 	 375 	 627 	 51 	 207 	 286 	 123 	 117 
+Manila  	 1007 	 14 	 61 	 105 	 133 	 14 	 78 	 25 	 9 	 11 
+Moscow  	 10183 	 372 	 782 	 887 	 1425 	 238 	 610 	 832 	 545 	 428 
+Seoul  	 5383 	 117 	 830 	 166 	 838 	 190 	 255 	 327 	 179 	 249 
+Sao Paulo  	 1047 	 27 	 121 	 65 	 133 	 13 	 80 	 52 	 10 	 21 
+Istanbul  	 4646 	 204 	 467 	 419 	 649 	 117 	 141 	 227 	 78 	 98 
+Lagos  	 686 	 11 	 54 	 61 	 86 	 0 	 25 	 31 	 4 	 3 
+Mexico  	 5616 	 119 	 453 	 356 	 788 	 111 	 362 	 264 	 113 	 141 
+Jakarta  	 2847 	 25 	 231 	 422 	 313 	 23 	 100 	 82 	 26 	 36 
+Edo  	 84 	 0 	 5 	 7 	 8 	 2 	 1 	 5 	 2 	 3 
+New York  	 22886 	 315 	 1452 	 1093 	 3558 	 583 	 2434 	 1708 	 530 	 456 
+Kinshasa  	 44 	 2 	 2 	 0 	 3 	 0 	 0 	 2 	 0 	 0 
+Al Qahirah  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Lima  	 1689 	 30 	 195 	 166 	 254 	 21 	 86 	 87 	 21 	 13 
+Peking  	 246 	 5 	 25 	 10 	 32 	 8 	 6 	 20 	 30 	 11 
+London  	 28050 	 837 	 2113 	 2025 	 4619 	 632 	 2276 	 1766 	 595 	 452 
+Tehran  	 1551 	 71 	 130 	 131 	 197 	 8 	 46 	 82 	 51 	 35 
+Bogota  	 665 	 12 	 53 	 52 	 107 	 10 	 25 	 36 	 10 	 10 
+Hong Kong  	 2901 	 45 	 222 	 176 	 468 	 110 	 164 	 166 	 108 	 90 
+Dhaka  	 3635 	 118 	 261 	 489 	 415 	 38 	 79 	 89 	 62 	 41 
+Lahore  	 1504 	 29 	 83 	 97 	 160 	 63 	 91 	 27 	 19 	 14 
+Rio De Janeiro  	 3854 	 104 	 358 	 311 	 569 	 61 	 311 	 264 	 70 	 81 
+Baghdad  	 40 	 1 	 2 	 1 	 3 	 0 	 0 	 0 	 0 	 2 
+Bangkok  	 1680 	 36 	 143 	 164 	 252 	 49 	 103 	 76 	 30 	 36 
+Bangalore  	 15963 	 180 	 1925 	 535 	 1822 	 208 	 744 	 931 	 328 	 504 
+Santiago  	 2289 	 41 	 168 	 243 	 363 	 30 	 172 	 136 	 49 	 41 
+Calcutta  	 42 	 0 	 1 	 1 	 6 	 0 	 1 	 3 	 3 	 1 
+Toronto  	 9714 	 224 	 723 	 564 	 1554 	 248 	 882 	 622 	 275 	 203 
+Dagon  	 1 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Sydney  	 7248 	 294 	 448 	 476 	 1192 	 153 	 631 	 428 	 142 	 170 
+Madras  	 32 	 0 	 2 	 1 	 3 	 0 	 1 	 6 	 4 	 2 
+Abia  	 3 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Wuhan  	 1298 	 31 	 143 	 60 	 183 	 46 	 47 	 106 	 84 	 93 
+Ogun  	 11 	 1 	 0 	 0 	 1 	 0 	 0 	 1 	 0 	 0 
+Saint-Petersburg  	 2963 	 121 	 394 	 231 	 405 	 66 	 199 	 224 	 199 	 105 
+Chongqing  	 426 	 9 	 61 	 22 	 71 	 12 	 9 	 20 	 18 	 22 
+Xian  	 143 	 5 	 20 	 3 	 25 	 7 	 4 	 8 	 13 	 10 
+Chengdu  	 1938 	 38 	 300 	 69 	 305 	 107 	 73 	 123 	 127 	 124 
+Chittagong  	 140 	 2 	 3 	 11 	 11 	 0 	 2 	 1 	 7 	 1 
+Los Angeles  	 9248 	 153 	 546 	 502 	 1317 	 236 	 797 	 587 	 331 	 203 
+Alexandria  	 701 	 13 	 64 	 51 	 95 	 11 	 73 	 33 	 19 	 13 
+Tianjin  	 428 	 15 	 51 	 24 	 52 	 12 	 10 	 34 	 19 	 26 
+Melbourne  	 6632 	 247 	 436 	 502 	 1005 	 177 	 644 	 396 	 126 	 148 
+Ahmadabad  	 12 	 1 	 1 	 3 	 0 	 0 	 0 	 0 	 0 	 0 
+Abidjan  	 114 	 3 	 14 	 12 	 15 	 0 	 4 	 4 	 1 	 1 
+Busan  	 107 	 1 	 21 	 7 	 8 	 3 	 4 	 1 	 11 	 5 
+Kano  	 25 	 0 	 1 	 3 	 0 	 0 	 0 	 1 	 0 	 0 
+Casablanca  	 215 	 2 	 21 	 35 	 35 	 3 	 3 	 6 	 1 	 2 
+Hyderabad  	 5781 	 89 	 605 	 186 	 717 	 65 	 209 	 251 	 93 	 113 
+Yokohama  	 634 	 7 	 62 	 46 	 70 	 24 	 59 	 28 	 22 	 22 
+Ibadan  	 27 	 1 	 0 	 0 	 2 	 0 	 1 	 1 	 0 	 0 
+Singapore  	 5658 	 112 	 511 	 306 	 818 	 177 	 398 	 346 	 178 	 145 
+Ankara  	 1042 	 47 	 128 	 82 	 118 	 22 	 25 	 64 	 36 	 38 
+Shenyang  	 215 	 2 	 26 	 7 	 30 	 11 	 7 	 9 	 7 	 15 
+Riyadh  	 244 	 8 	 16 	 20 	 24 	 2 	 10 	 9 	 2 	 1 
+Ho Chi Minh City  	 717 	 28 	 70 	 54 	 100 	 25 	 48 	 20 	 14 	 11 
+Cape Town  	 1966 	 53 	 152 	 161 	 269 	 15 	 127 	 149 	 30 	 31 
+Berlin  	 11412 	 145 	 1067 	 937 	 1745 	 304 	 1187 	 778 	 300 	 309 
+Montreal  	 4642 	 131 	 421 	 318 	 672 	 96 	 279 	 375 	 150 	 137 
+Harbin  	 268 	 8 	 29 	 15 	 21 	 5 	 15 	 25 	 30 	 26 
+Pyongyang  	 12 	 0 	 0 	 2 	 0 	 0 	 0 	 0 	 1 	 2 
+Guangzhou  	 2608 	 42 	 365 	 104 	 471 	 155 	 78 	 210 	 153 	 146 
+Durban  	 226 	 14 	 16 	 9 	 35 	 3 	 7 	 7 	 3 	 0 
+Madrid  	 5391 	 81 	 612 	 398 	 902 	 143 	 329 	 325 	 133 	 136 
+Nanjing  	 1879 	 27 	 309 	 57 	 271 	 64 	 53 	 143 	 112 	 157 
+Kabul  	 67 	 0 	 3 	 11 	 7 	 1 	 1 	 0 	 1 	 1 
+Pune  	 6368 	 92 	 620 	 254 	 701 	 108 	 378 	 257 	 94 	 156 
+Surat  	 409 	 9 	 35 	 33 	 41 	 8 	 4 	 8 	 6 	 9 
+Chicago  	 10944 	 203 	 614 	 455 	 1584 	 238 	 1416 	 812 	 189 	 207 
+Kanpur  	 258 	 1 	 18 	 18 	 34 	 0 	 8 	 24 	 21 	 22 
+Umm Durman  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Luanda  	 76 	 0 	 5 	 6 	 11 	 1 	 4 	 1 	 0 	 1 
+Addis Abeba  	 17 	 1 	 3 	 0 	 3 	 0 	 0 	 1 	 0 	 1 
+Nairobi  	 1536 	 16 	 160 	 195 	 176 	 3 	 75 	 114 	 12 	 18 
+Taiyuan  	 62 	 0 	 9 	 2 	 8 	 2 	 6 	 3 	 2 	 6 
+Jaipur  	 968 	 8 	 60 	 74 	 82 	 13 	 30 	 20 	 10 	 17 
+Salvador  	 1091 	 14 	 123 	 114 	 163 	 18 	 55 	 50 	 21 	 17 
+Dakar  	 130 	 1 	 11 	 10 	 15 	 1 	 10 	 8 	 1 	 1 
+Dar Es Salaam  	 162 	 0 	 8 	 22 	 16 	 2 	 1 	 9 	 1 	 1 
+Rome  	 1351 	 14 	 165 	 117 	 202 	 33 	 78 	 70 	 48 	 49 
+Yunfu  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Changwat Nakhon Rat Sima  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Al Basrah  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Osaka  	 1000 	 28 	 60 	 84 	 139 	 28 	 98 	 38 	 38 	 31 
+Mogadishu  	 8 	 0 	 1 	 0 	 0 	 0 	 0 	 1 	 0 	 0 
+Taegu  	 2 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 1 	 1 
+Jiddah  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Changchun  	 113 	 2 	 11 	 1 	 13 	 3 	 4 	 10 	 8 	 7 
+Taipei  	 3242 	 66 	 311 	 151 	 539 	 148 	 195 	 225 	 147 	 168 
+Kiev  	 3272 	 118 	 453 	 366 	 502 	 65 	 160 	 184 	 106 	 76 
+Faisalabad  	 53 	 1 	 3 	 4 	 7 	 1 	 0 	 0 	 0 	 0 
+Izmir  	 505 	 24 	 43 	 47 	 61 	 4 	 22 	 22 	 15 	 18 
+Lakhnau  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Konia  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Gizeh  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Ceara  	 28 	 0 	 2 	 1 	 4 	 0 	 1 	 1 	 0 	 0 
+Cali  	 403 	 7 	 33 	 41 	 68 	 8 	 17 	 18 	 7 	 1 
+Surabaya  	 575 	 13 	 58 	 89 	 47 	 2 	 9 	 9 	 5 	 6 
+Brusa  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Belo Horizonte  	 1469 	 48 	 139 	 151 	 258 	 17 	 124 	 89 	 24 	 31 
+Grand Dakar  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Al Kuwait  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Mashhad  	 197 	 3 	 10 	 23 	 45 	 0 	 3 	 3 	 4 	 6 
+Brooklyn  	 3976 	 28 	 168 	 244 	 813 	 145 	 545 	 289 	 81 	 49 
+Quezon  	 248 	 0 	 17 	 21 	 32 	 3 	 16 	 14 	 6 	 3 
+Nagpur  	 300 	 5 	 22 	 31 	 22 	 4 	 6 	 9 	 3 	 8 
+Harare  	 97 	 4 	 7 	 10 	 7 	 0 	 5 	 3 	 2 	 0 
+Brasilia  	 310 	 6 	 45 	 38 	 35 	 6 	 14 	 7 	 8 	 9 
+Santo Domingo  	 337 	 14 	 47 	 22 	 48 	 2 	 16 	 12 	 1 	 3 
+Nagoya  	 264 	 7 	 13 	 27 	 36 	 16 	 16 	 11 	 16 	 8 
+Havana  	 61 	 3 	 7 	 10 	 8 	 0 	 5 	 3 	 2 	 1 
+Kosovo  	 104 	 1 	 10 	 11 	 21 	 2 	 4 	 4 	 1 	 0 
+Aleppo  	 13 	 1 	 1 	 2 	 1 	 0 	 0 	 0 	 1 	 0 
+Paris  	 13226 	 230 	 1104 	 1467 	 2277 	 281 	 814 	 874 	 371 	 542 
+Changsha  	 376 	 3 	 49 	 9 	 56 	 14 	 17 	 23 	 28 	 32 
+Jinan  	 245 	 5 	 39 	 15 	 39 	 7 	 9 	 11 	 15 	 13 
+Al Mawsil Al Jadidah  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Tangshan  	 9 	 1 	 3 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Dalian  	 518 	 13 	 97 	 14 	 82 	 23 	 13 	 37 	 23 	 23 
+Houston  	 3121 	 136 	 152 	 121 	 365 	 47 	 217 	 177 	 81 	 75 
+Johannesburg  	 955 	 56 	 76 	 51 	 128 	 8 	 43 	 41 	 13 	 19 
+Kowloon  	 20 	 0 	 2 	 2 	 3 	 0 	 1 	 1 	 0 	 1 
+Al Basrah Al Qadimah  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Zhengzhou  	 194 	 10 	 20 	 16 	 32 	 5 	 1 	 13 	 14 	 7 
+Cheng  	 35 	 2 	 9 	 1 	 7 	 0 	 1 	 2 	 1 	 2 
+Medellin  	 477 	 10 	 48 	 35 	 78 	 12 	 39 	 14 	 11 	 6 
+Algiers  	 91 	 4 	 9 	 11 	 14 	 1 	 1 	 5 	 0 	 0 
+Tashkent  	 173 	 4 	 13 	 26 	 24 	 4 	 11 	 3 	 6 	 2 
+Al Jazair  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Khartoum  	 37 	 0 	 1 	 1 	 4 	 0 	 2 	 2 	 0 	 1 
+Accra  	 355 	 8 	 26 	 19 	 50 	 1 	 27 	 27 	 4 	 1 
+Guayaquil  	 187 	 4 	 17 	 21 	 30 	 0 	 4 	 9 	 10 	 0 
+Maracaibo  	 103 	 2 	 5 	 12 	 19 	 0 	 4 	 8 	 2 	 1 
+Rabat  	 142 	 1 	 8 	 17 	 28 	 1 	 2 	 5 	 4 	 0 
+Sapporo  	 282 	 6 	 16 	 21 	 37 	 16 	 41 	 9 	 12 	 8 
+Jilin  	 79 	 2 	 8 	 2 	 9 	 2 	 1 	 8 	 9 	 4 
+Hangzhou  	 3480 	 45 	 545 	 145 	 738 	 143 	 126 	 229 	 232 	 211 
+Bucuresti  	 147 	 1 	 13 	 16 	 14 	 2 	 4 	 6 	 5 	 1 
+Nanchang  	 60 	 1 	 6 	 2 	 12 	 0 	 4 	 4 	 3 	 1 
+Camayenne  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Brisbane  	 2483 	 148 	 169 	 179 	 332 	 47 	 163 	 150 	 76 	 58 
+Vancouver  	 6121 	 169 	 438 	 408 	 906 	 155 	 535 	 380 	 158 	 144 
+Indore  	 769 	 6 	 61 	 58 	 82 	 30 	 40 	 20 	 8 	 6 
+Caracas  	 717 	 9 	 35 	 71 	 97 	 6 	 43 	 59 	 14 	 8 
+Ecatepec  	 9 	 0 	 3 	 0 	 0 	 0 	 0 	 1 	 0 	 0 
+Sanaa  	 3 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Changwat Chiang Mai  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Medan  	 235 	 3 	 9 	 25 	 33 	 2 	 3 	 0 	 1 	 1 
+Rawalpindi  	 80 	 2 	 8 	 7 	 5 	 2 	 3 	 0 	 1 	 2 
+Minsk  	 3011 	 142 	 353 	 264 	 424 	 78 	 285 	 141 	 125 	 84 
+Mosul  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Hamburg  	 3647 	 55 	 405 	 356 	 542 	 73 	 345 	 161 	 107 	 80 
+Curitiba  	 1142 	 25 	 124 	 146 	 158 	 17 	 71 	 47 	 24 	 28 
+Budapest  	 2184 	 60 	 242 	 209 	 324 	 35 	 111 	 136 	 91 	 69 
+Bandung  	 1761 	 23 	 194 	 208 	 179 	 9 	 70 	 38 	 90 	 37 
+Soweto  	 8 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Edessa  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Warsaw  	 2525 	 90 	 288 	 183 	 293 	 53 	 217 	 201 	 132 	 95 
+Qingdao  	 280 	 9 	 32 	 9 	 34 	 7 	 6 	 15 	 14 	 15 
+Guadalajara  	 720 	 18 	 67 	 68 	 123 	 14 	 49 	 43 	 12 	 20 
+Pretoria  	 433 	 20 	 32 	 29 	 43 	 5 	 24 	 35 	 8 	 3 
+Alep  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Patna  	 112 	 1 	 13 	 5 	 8 	 0 	 4 	 9 	 1 	 3 
+Bhopal  	 194 	 3 	 15 	 6 	 10 	 5 	 2 	 3 	 8 	 5 
+New Patna  	 1 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Manaus  	 325 	 6 	 56 	 29 	 33 	 10 	 11 	 10 	 21 	 12 
+Xinyang  	 4 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Kaduna  	 13 	 0 	 1 	 1 	 0 	 0 	 0 	 1 	 0 	 0 
+Damascus  	 84 	 2 	 8 	 6 	 11 	 0 	 5 	 4 	 4 	 1 
+Phnom Penh  	 332 	 3 	 22 	 46 	 30 	 9 	 36 	 2 	 3 	 3 
+Barcelona  	 4954 	 72 	 430 	 516 	 765 	 117 	 330 	 323 	 166 	 135 
+Al-sham  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Wien  	 137 	 7 	 18 	 14 	 10 	 1 	 5 	 3 	 1 	 1 
+Esfahan  	 56 	 2 	 8 	 3 	 5 	 1 	 0 	 1 	 1 	 0 
+Ludhiana  	 156 	 2 	 8 	 20 	 13 	 1 	 3 	 10 	 9 	 1 
+Changwat Nakhon Si Thammarat  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Kobe  	 196 	 7 	 11 	 15 	 29 	 5 	 19 	 8 	 6 	 9 
+Bekasi  	 149 	 1 	 8 	 31 	 9 	 0 	 2 	 1 	 2 	 6 
+Kaohsiung  	 192 	 8 	 21 	 9 	 30 	 4 	 6 	 10 	 8 	 7 
+Kaohsiung  	 192 	 8 	 21 	 9 	 30 	 4 	 6 	 10 	 8 	 7 
+Ciudad Juarez  	 10 	 0 	 0 	 1 	 1 	 0 	 1 	 0 	 0 	 0 
+Urumqi  	 41 	 1 	 6 	 6 	 4 	 0 	 1 	 2 	 0 	 2 
+Changwat Chiang Rai  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Changwat Surin  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Thana  	 2 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Recife  	 935 	 11 	 154 	 62 	 116 	 12 	 67 	 55 	 32 	 24 
+Taejon  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Daejeon  	 158 	 3 	 29 	 1 	 17 	 2 	 2 	 15 	 13 	 15 
+Kumasi  	 24 	 0 	 2 	 3 	 0 	 0 	 2 	 1 	 0 	 0 
+Kyoto  	 620 	 7 	 42 	 32 	 74 	 24 	 64 	 41 	 35 	 26 
+Kuala Lumpur  	 939 	 18 	 67 	 87 	 132 	 18 	 63 	 32 	 12 	 25 
+Philadelphia  	 3617 	 69 	 253 	 181 	 527 	 83 	 311 	 301 	 90 	 93 
+Karaj  	 57 	 1 	 3 	 4 	 7 	 0 	 2 	 4 	 1 	 1 
+Perth  	 1271 	 71 	 64 	 108 	 133 	 21 	 118 	 76 	 25 	 40 
+Cordoba  	 277 	 6 	 29 	 29 	 45 	 3 	 15 	 29 	 3 	 11 
+Multan  	 44 	 0 	 1 	 8 	 4 	 0 	 1 	 0 	 0 	 0 
+Ha Noi  	 575 	 14 	 81 	 66 	 64 	 21 	 30 	 13 	 9 	 7 
+Kharkiv  	 823 	 37 	 102 	 89 	 112 	 30 	 47 	 43 	 24 	 15 
+Agra  	 49 	 1 	 2 	 5 	 5 	 0 	 2 	 2 	 0 	 1 
+Phoenix  	 1728 	 49 	 107 	 116 	 251 	 23 	 112 	 78 	 20 	 26 
+Tabriz  	 84 	 2 	 3 	 7 	 13 	 1 	 0 	 0 	 1 	 0 
+Novosibirsk  	 979 	 33 	 103 	 100 	 127 	 31 	 44 	 61 	 75 	 47 
+Lanzhou  	 54 	 2 	 4 	 1 	 8 	 1 	 0 	 2 	 6 	 1 
+Kwangju  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Bursa  	 133 	 7 	 4 	 23 	 16 	 0 	 3 	 7 	 8 	 3 
+Changwat Roi Et  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Vadodara  	 271 	 8 	 34 	 18 	 33 	 5 	 3 	 6 	 3 	 4 
+Belem  	 22 	 0 	 2 	 5 	 2 	 0 	 1 	 0 	 1 	 0 
+Juarez  	 43 	 0 	 4 	 2 	 8 	 0 	 1 	 1 	 0 	 0 
+Fushun  	 3 	 0 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 
+Quito  	 387 	 10 	 36 	 44 	 37 	 4 	 26 	 16 	 1 	 4 
+Fukuoka  	 414 	 7 	 40 	 32 	 58 	 14 	 50 	 15 	 22 	 12 
+Puebla  	 232 	 7 	 21 	 25 	 40 	 0 	 7 	 10 	 2 	 3 
+Antananarivo  	 59 	 0 	 2 	 5 	 12 	 1 	 2 	 2 	 1 	 1 
+Luoyang  	 20 	 0 	 2 	 2 	 3 	 1 	 0 	 1 	 0 	 0 
+Hefei  	 382 	 9 	 55 	 12 	 42 	 6 	 12 	 27 	 35 	 32 
+Hyderabad  	 5783 	 89 	 605 	 186 	 717 	 65 	 209 	 251 	 93 	 114 
+Valencia  	 1042 	 24 	 136 	 109 	 149 	 19 	 52 	 49 	 26 	 20 
+Gujranwala  	 15 	 0 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 1 
+Barranquilla  	 249 	 2 	 13 	 27 	 27 	 4 	 45 	 12 	 2 	 2 
+Tijuana  	 250 	 10 	 9 	 21 	 38 	 2 	 15 	 15 	 3 	 11 
+Lubumbashi  	 10 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Porto Alegre  	 1616 	 23 	 211 	 132 	 226 	 29 	 162 	 70 	 28 	 40 
+Tangerang  	 181 	 4 	 13 	 19 	 15 	 0 	 10 	 4 	 2 	 1 
+Santa Cruz De La Sierra  	 33 	 0 	 4 	 1 	 3 	 0 	 3 	 3 	 1 	 0 
+Handan  	 4 	 0 	 1 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Kampala  	 375 	 5 	 46 	 40 	 31 	 0 	 17 	 28 	 1 	 2 
+Kocaeli  	 69 	 1 	 8 	 13 	 8 	 2 	 0 	 1 	 5 	 5 
+Suzhou  	 612 	 16 	 93 	 21 	 88 	 27 	 24 	 45 	 25 	 48 
+Khulna  	 117 	 9 	 6 	 14 	 6 	 0 	 1 	 2 	 5 	 1 
+Douala  	 66 	 1 	 8 	 5 	 9 	 0 	 3 	 6 	 0 	 0 
+Shantou  	 24 	 0 	 1 	 3 	 0 	 0 	 2 	 4 	 1 	 1 
+Gorakhpur  	 16 	 0 	 1 	 1 	 1 	 0 	 0 	 1 	 1 	 0 
+Makasar  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Kawasaki  	 118 	 0 	 10 	 7 	 14 	 8 	 14 	 3 	 5 	 5 
+Kawasaki  	 118 	 0 	 10 	 7 	 14 	 8 	 14 	 3 	 5 	 5 
+Montevideo  	 876 	 18 	 65 	 59 	 138 	 17 	 113 	 64 	 11 	 12 
+Baotou Shi  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Medina  	 23 	 0 	 2 	 1 	 1 	 0 	 1 	 1 	 1 	 0 
+Yaounde  	 20 	 0 	 1 	 3 	 2 	 0 	 0 	 0 	 0 	 0 
+Bamako  	 20 	 0 	 1 	 0 	 2 	 0 	 0 	 7 	 0 	 0 
+Changwat Songkhla  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Nasik  	 25 	 0 	 5 	 0 	 3 	 0 	 0 	 0 	 0 	 1 
+Changwat Chon Buri  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Semarang  	 223 	 0 	 14 	 36 	 21 	 1 	 5 	 6 	 0 	 2 
+Yekaterinburg  	 440 	 26 	 31 	 59 	 81 	 2 	 28 	 55 	 15 	 22 
+San Diego  	 4672 	 101 	 310 	 296 	 647 	 88 	 365 	 272 	 114 	 123 
+Pimpri  	 4 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Nizhniy Novgorod  	 99 	 5 	 11 	 8 	 6 	 2 	 8 	 15 	 8 	 7 
+Faridabad  	 102 	 0 	 2 	 6 	 5 	 1 	 4 	 5 	 1 	 0 
+Davao City  	 155 	 5 	 5 	 29 	 19 	 1 	 1 	 10 	 0 	 2 
+Amman  	 345 	 12 	 26 	 36 	 56 	 5 	 17 	 6 	 6 	 4 
+Ciudad De Montevideo  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Lusaka  	 58 	 1 	 6 	 5 	 5 	 1 	 2 	 2 	 2 	 0 
+Katmandu  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Kalyan  	 6 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 1 	 0 
+Thane  	 73 	 0 	 3 	 5 	 3 	 0 	 4 	 1 	 0 	 5 
+San Antonio  	 1184 	 30 	 63 	 102 	 101 	 17 	 109 	 127 	 17 	 25 
+Stockholm  	 5801 	 244 	 548 	 340 	 917 	 147 	 325 	 391 	 123 	 156 
+Beirut  	 172 	 3 	 8 	 13 	 23 	 8 	 4 	 6 	 4 	 5 
+Shiraz  	 93 	 9 	 7 	 5 	 11 	 0 	 2 	 3 	 5 	 1 
+Adana  	 44 	 3 	 1 	 4 	 6 	 0 	 0 	 1 	 0 	 0 
+Munich  	 3754 	 81 	 439 	 313 	 515 	 93 	 247 	 254 	 168 	 124 
+Suwon  	 190 	 7 	 19 	 3 	 25 	 4 	 4 	 7 	 14 	 22 
+Suigen  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Palembang  	 62 	 2 	 1 	 7 	 6 	 0 	 1 	 1 	 1 	 1 
+Port-au-prince  	 22 	 0 	 1 	 0 	 2 	 0 	 0 	 2 	 0 	 1 
+Nezahualcoyotl  	 5 	 0 	 2 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Meerut  	 30 	 0 	 0 	 2 	 1 	 0 	 0 	 0 	 1 	 1 
+Peshawar  	 106 	 0 	 8 	 15 	 6 	 1 	 1 	 1 	 1 	 2 
+Rosario  	 353 	 9 	 38 	 39 	 70 	 1 	 11 	 26 	 9 	 11 
+Central  	 581 	 10 	 51 	 37 	 51 	 8 	 28 	 30 	 17 	 22 
+Central  	 581 	 10 	 51 	 37 	 51 	 8 	 28 	 30 	 17 	 22 
+Jaizan  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Davao  	 176 	 5 	 6 	 32 	 19 	 1 	 4 	 11 	 0 	 2 
+Dallas  	 3545 	 128 	 251 	 196 	 505 	 77 	 275 	 142 	 71 	 71 
+Mandalay  	 31 	 1 	 3 	 3 	 0 	 0 	 0 	 0 	 0 	 1 
+Almaty  	 309 	 13 	 30 	 43 	 36 	 13 	 24 	 17 	 10 	 2 
+Spetsgorodok  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Bronx  	 157 	 3 	 15 	 8 	 14 	 2 	 15 	 3 	 6 	 2 
+Changwat Sakon Nakhon  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Omdurman  	 2 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Mecca  	 3 	 0 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 
+Ghaziabad  	 139 	 4 	 21 	 6 	 19 	 2 	 1 	 4 	 0 	 3 
+Anshan  	 2 	 0 	 0 	 0 	 0 	 0 	 0 	 1 	 0 	 0 
+Xuzhou  	 32 	 2 	 2 	 4 	 3 	 0 	 0 	 2 	 2 	 3 
+Depok  	 197 	 0 	 33 	 21 	 14 	 0 	 4 	 4 	 4 	 5 
+Maputo  	 59 	 0 	 9 	 2 	 2 	 0 	 7 	 0 	 0 	 0 
+Freetown  	 8 	 0 	 0 	 0 	 1 	 0 	 0 	 1 	 0 	 1 
+Changwat Chaiyaphum  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Fuzhou  	 205 	 7 	 21 	 12 	 38 	 13 	 6 	 16 	 13 	 15 
+Changwat Nakhon Sawan  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Rajkot  	 351 	 3 	 25 	 33 	 44 	 11 	 7 	 2 	 2 	 5 
+Pest  	 3 	 0 	 1 	 1 	 0 	 0 	 0 	 0 	 0 	 0 
+Guiyang  	 45 	 4 	 5 	 3 	 8 	 2 	 1 	 1 	 2 	 2 
+Goiania  	 78 	 5 	 8 	 5 	 9 	 2 	 9 	 1 	 0 	 5 
+Guarulhos  	 92 	 4 	 10 	 9 	 14 	 2 	 4 	 4 	 1 	 1 
+Praha  	 187 	 4 	 20 	 33 	 20 	 1 	 8 	 3 	 7 	 7 
+Varanasi  	 152 	 1 	 17 	 7 	 9 	 1 	 3 	 26 	 11 	 4 
+Fez  	 6 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 1 	 0 
+Milan  	 1235 	 24 	 116 	 126 	 191 	 32 	 76 	 43 	 35 	 39 
+Changwat Phetchabun  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Tripoli  	 37 	 1 	 1 	 6 	 6 	 0 	 1 	 1 	 0 	 1 
+Port Harcourt  	 25 	 0 	 2 	 3 	 1 	 0 	 0 	 1 	 0 	 1 
+Baile Atha Cliath  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Hiroshima  	 105 	 0 	 7 	 5 	 9 	 4 	 11 	 2 	 5 	 7 
+Dubayy  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Managua  	 149 	 3 	 11 	 22 	 29 	 0 	 6 	 11 	 1 	 3 
+Dubai  	 1057 	 9 	 53 	 94 	 150 	 26 	 32 	 48 	 10 	 6 
+Samara  	 370 	 14 	 41 	 36 	 47 	 9 	 33 	 19 	 14 	 8 
+Omsk  	 426 	 17 	 55 	 48 	 58 	 8 	 36 	 35 	 16 	 10 
+Benin  	 53 	 0 	 4 	 7 	 5 	 0 	 0 	 1 	 0 	 0 
+Monterrey  	 638 	 10 	 44 	 37 	 92 	 15 	 73 	 15 	 12 	 6 
+Baku  	 175 	 1 	 17 	 23 	 21 	 1 	 7 	 5 	 6 	 3 
+Brazzaville  	 9 	 1 	 2 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Belgrade  	 1051 	 26 	 100 	 115 	 164 	 15 	 36 	 37 	 25 	 17 
+Leon  	 121 	 4 	 19 	 6 	 18 	 1 	 12 	 4 	 6 	 2 
+Maiduguri  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Wuxi  	 188 	 7 	 17 	 9 	 26 	 7 	 11 	 12 	 8 	 11 
+Kazan  	 473 	 26 	 48 	 51 	 48 	 15 	 80 	 22 	 14 	 8 
+Al Jadida  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Yerevan  	 292 	 9 	 22 	 40 	 52 	 6 	 5 	 5 	 15 	 8 
+Amritsar  	 39 	 0 	 0 	 6 	 9 	 0 	 2 	 1 	 3 	 0 
+Kaisaria  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Copenhagen  	 2764 	 167 	 218 	 212 	 433 	 76 	 158 	 171 	 49 	 56 
+Ouagadouga  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Changwat Kalasin  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Taichung  	 156 	 8 	 21 	 14 	 22 	 6 	 7 	 3 	 7 	 4 
+Yono  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Rostov-na-donu  	 17 	 0 	 1 	 0 	 5 	 0 	 3 	 0 	 1 	 1 
+Adelaide  	 823 	 27 	 64 	 71 	 91 	 19 	 63 	 63 	 34 	 19 
+Allahabad  	 177 	 1 	 15 	 7 	 9 	 0 	 6 	 10 	 16 	 6 
+Gaziantep  	 18 	 1 	 2 	 3 	 1 	 0 	 0 	 0 	 0 	 0 
+Visakhapatnam  	 130 	 0 	 8 	 4 	 15 	 1 	 5 	 5 	 0 	 3 
+Chelyabinsk  	 272 	 17 	 14 	 39 	 48 	 2 	 17 	 27 	 13 	 6 
+Sofia  	 2284 	 368 	 204 	 184 	 332 	 31 	 106 	 89 	 81 	 62 
+Unguja Ukuu  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Datong  	 4 	 0 	 1 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Dagu  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Tbilisi  	 348 	 14 	 33 	 44 	 66 	 7 	 12 	 10 	 8 	 7 
+Changwat Nonthaburi  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Changwat Samut Prakan  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Sendai  	 128 	 4 	 14 	 4 	 10 	 5 	 10 	 10 	 8 	 7 
+Xianyang  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 1 	 0 
+Ufa  	 214 	 10 	 9 	 29 	 34 	 4 	 15 	 12 	 9 	 4 
+Songnam  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Campinas  	 1030 	 23 	 133 	 70 	 113 	 22 	 53 	 66 	 25 	 46 
+Ouagadougou  	 18 	 1 	 1 	 1 	 2 	 0 	 1 	 0 	 0 	 0 
+Jabalpur  	 84 	 1 	 6 	 2 	 7 	 0 	 3 	 4 	 5 	 5 
+Haora  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Huainan  	 3 	 0 	 1 	 1 	 1 	 0 	 0 	 0 	 0 	 0 
+Dublin  	 3408 	 114 	 383 	 222 	 484 	 73 	 268 	 225 	 78 	 91 
+Kunming  	 117 	 3 	 19 	 5 	 18 	 6 	 4 	 15 	 5 	 3 
+Brussels  	 1215 	 23 	 95 	 118 	 202 	 14 	 63 	 103 	 32 	 24 
+Aurangabad  	 54 	 0 	 4 	 2 	 2 	 0 	 0 	 2 	 0 	 3 
+Qom  	 29 	 0 	 6 	 2 	 3 	 0 	 1 	 0 	 1 	 0 
+Volgograd  	 145 	 13 	 10 	 12 	 17 	 0 	 11 	 11 	 11 	 2 
+Aidin  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Shenzhen  	 3648 	 49 	 501 	 150 	 564 	 183 	 104 	 218 	 205 	 287 
+Nova Iguacu  	 1 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Rongcheng  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Odesa  	 36 	 0 	 9 	 1 	 5 	 0 	 3 	 2 	 1 	 3 
+Kitakyushu  	 15 	 0 	 0 	 0 	 1 	 0 	 2 	 1 	 3 	 2 
+Sholapur  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Baoding  	 13 	 0 	 1 	 3 	 0 	 0 	 1 	 0 	 3 	 1 
+Changwat Surat Thani  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Napoli  	 99 	 0 	 5 	 14 	 8 	 2 	 3 	 2 	 4 	 5 
+Benxi  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Zapopan  	 93 	 2 	 6 	 10 	 11 	 1 	 3 	 5 	 2 	 4 
+Birmingham  	 1244 	 50 	 81 	 120 	 161 	 16 	 102 	 71 	 21 	 19 
+Perm  	 253 	 16 	 16 	 33 	 47 	 8 	 19 	 10 	 11 	 8 
+Naples  	 242 	 11 	 19 	 10 	 18 	 3 	 11 	 12 	 11 	 7 
+Erzerum  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Srinagar  	 92 	 1 	 4 	 6 	 6 	 0 	 1 	 5 	 2 	 3 
+Zaria  	 3 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Guatemala  	 767 	 8 	 92 	 70 	 127 	 11 	 32 	 25 	 6 	 11 
+Mendoza  	 225 	 3 	 21 	 23 	 34 	 1 	 23 	 10 	 4 	 7 
+Changwat Phitsanulok  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Cologne  	 1410 	 20 	 142 	 177 	 223 	 42 	 100 	 66 	 33 	 31 
+Calgary  	 1393 	 60 	 90 	 87 	 174 	 34 	 106 	 62 	 33 	 31 
+Port Elizabeth  	 47 	 6 	 1 	 2 	 9 	 0 	 4 	 1 	 2 	 0 
+Warab  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Fes  	 11 	 0 	 1 	 2 	 0 	 0 	 0 	 0 	 0 	 0 
+Koeln  	 5 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 1 
+Coimbatore  	 669 	 11 	 69 	 33 	 62 	 13 	 18 	 23 	 10 	 19 
+Maceio  	 23 	 1 	 1 	 0 	 4 	 0 	 0 	 0 	 1 	 2 
+Cartagena  	 100 	 5 	 9 	 14 	 11 	 1 	 4 	 1 	 0 	 2 
+Settat  	 5 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Changzhou  	 42 	 1 	 8 	 2 	 8 	 2 	 2 	 1 	 2 	 1 
+Sultanah  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Ranchi  	 85 	 0 	 6 	 6 	 6 	 3 	 0 	 7 	 7 	 3 
+Marrakesh  	 7 	 0 	 0 	 1 	 0 	 0 	 1 	 1 	 0 	 0 
+Changwat Nong Khai  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Sao Goncalo  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Maha Sarakam  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Changwat Maha Sarakham  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Monrovia  	 32 	 0 	 3 	 2 	 0 	 0 	 4 	 1 	 2 	 1 
+Irbil  	 2 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Malatia  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Jodhpur  	 141 	 0 	 14 	 11 	 8 	 1 	 5 	 7 	 4 	 7 
+Chiba  	 319 	 10 	 30 	 22 	 42 	 7 	 27 	 15 	 12 	 18 
+Sao Luis  	 9 	 0 	 2 	 1 	 1 	 0 	 0 	 0 	 0 	 1 
+Chandigarh  	 797 	 13 	 40 	 76 	 65 	 19 	 17 	 12 	 10 	 18 
+Gampheang Phet  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Madurai  	 159 	 1 	 11 	 16 	 14 	 4 	 2 	 4 	 2 	 0 
+Ad Diwaniyah  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Krasnoyarsk  	 259 	 17 	 17 	 26 	 47 	 2 	 21 	 22 	 9 	 5 
+Huaibei  	 2 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 1 
+Cochabamba  	 133 	 4 	 16 	 25 	 15 	 2 	 10 	 4 	 1 	 0 
+Ghom  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Abu Ghurayb  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Abobo  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Guwahati  	 206 	 1 	 11 	 10 	 19 	 1 	 3 	 20 	 14 	 19 
+Aba  	 3 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+San Jose  	 3764 	 43 	 473 	 109 	 505 	 99 	 257 	 246 	 110 	 148 
+Bulawayo  	 10 	 0 	 0 	 0 	 3 	 0 	 0 	 2 	 0 	 1 
+Bishkek  	 166 	 8 	 11 	 26 	 27 	 2 	 18 	 17 	 3 	 2 
+Pingdingshan  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Detroit  	 1016 	 28 	 79 	 68 	 187 	 31 	 72 	 46 	 16 	 12 
+Changwat Rat Buri  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Gwalior  	 80 	 0 	 3 	 5 	 5 	 0 	 1 	 4 	 5 	 1 
+Qiqihar  	 3 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Klang  	 7 	 0 	 0 	 1 	 0 	 0 	 0 	 2 	 0 	 0 
+Safi  	 5 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 1 
+Konya  	 53 	 0 	 3 	 5 	 3 	 0 	 1 	 2 	 1 	 0 
+Mbuji-mayi  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Vijayawada  	 75 	 0 	 6 	 2 	 5 	 1 	 2 	 1 	 1 	 1 
+Ottawa  	 2724 	 60 	 211 	 145 	 430 	 51 	 218 	 169 	 76 	 68 
+Maisuru  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Changwat Suphan Buri  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Wenzhou  	 65 	 0 	 4 	 3 	 9 	 3 	 7 	 3 	 1 	 5 
+Torino  	 289 	 5 	 28 	 31 	 35 	 5 	 21 	 30 	 9 	 9 
+Saratov  	 320 	 13 	 33 	 36 	 37 	 4 	 15 	 36 	 15 	 15 
+Ahvaz  	 9 	 1 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 1 
+Tegucigalpa  	 76 	 1 	 3 	 4 	 17 	 3 	 10 	 6 	 2 	 0 
+Turin  	 372 	 12 	 35 	 33 	 40 	 11 	 10 	 31 	 14 	 21 
+Naucalpan  	 9 	 0 	 2 	 1 	 1 	 0 	 0 	 0 	 0 	 0 
+Da Huryee  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Arequipa  	 108 	 6 	 7 	 8 	 14 	 0 	 2 	 5 	 14 	 3 
+Voronezh  	 242 	 17 	 29 	 25 	 39 	 5 	 21 	 11 	 14 	 7 
+Padang  	 41 	 0 	 5 	 7 	 2 	 0 	 0 	 1 	 0 	 1 
+Hubli  	 34 	 0 	 1 	 4 	 0 	 1 	 1 	 1 	 0 	 1 
+Marrakech  	 59 	 0 	 7 	 7 	 10 	 0 	 3 	 3 	 0 	 0 
+Callao  	 18 	 0 	 3 	 2 	 1 	 0 	 1 	 0 	 0 	 1 
+Lvov  	 11 	 0 	 0 	 1 	 1 	 2 	 5 	 1 	 0 	 0 
+Tucuman  	 54 	 1 	 2 	 6 	 10 	 1 	 9 	 4 	 0 	 1 
+Tangier  	 28 	 0 	 0 	 2 	 7 	 0 	 2 	 0 	 0 	 1 
+Changwat Lampang  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Edmonton  	 977 	 42 	 83 	 65 	 126 	 18 	 87 	 71 	 40 	 26 
+Duque De Caxias  	 19 	 0 	 1 	 2 	 2 	 1 	 2 	 2 	 0 	 0 
+Jos  	 18 	 0 	 0 	 0 	 0 	 0 	 0 	 1 	 0 	 1 
+Sale  	 8 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 2 
+Ilorin  	 12 	 0 	 0 	 0 	 2 	 0 	 0 	 2 	 0 	 0 
+La Paz  	 202 	 6 	 25 	 24 	 27 	 1 	 8 	 5 	 8 	 3 
+Barquisimeto  	 64 	 0 	 6 	 6 	 8 	 0 	 7 	 4 	 2 	 1 
+Oslo  	 3056 	 104 	 343 	 151 	 509 	 50 	 183 	 189 	 100 	 96 
+Nanning  	 60 	 1 	 11 	 6 	 5 	 3 	 1 	 4 	 3 	 4 
+Johor Bahru  	 34 	 2 	 1 	 4 	 1 	 0 	 1 	 2 	 0 	 1 
+Bandar Lampung  	 35 	 0 	 2 	 3 	 4 	 0 	 0 	 0 	 0 	 1 
+Cebu City  	 345 	 7 	 23 	 43 	 55 	 4 	 23 	 12 	 2 	 2 
+Mombasa  	 44 	 0 	 2 	 7 	 2 	 1 	 1 	 1 	 1 	 0 
+Asgabat  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Jacksonville  	 587 	 27 	 23 	 31 	 88 	 10 	 67 	 10 	 3 	 7 
+Aleksandrovsk  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Lobh Buri  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Marseille  	 438 	 12 	 29 	 64 	 62 	 10 	 23 	 31 	 14 	 11 
+Nagara Pathom  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Kathmandu  	 967 	 9 	 91 	 121 	 130 	 9 	 45 	 34 	 9 	 24 
+Rupandehi  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Jalandhar  	 103 	 3 	 7 	 6 	 8 	 1 	 3 	 2 	 1 	 5 
+Thiruvananthapuram  	 77 	 2 	 9 	 6 	 7 	 2 	 1 	 4 	 0 	 2 
+Sakai  	 2 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Anyang  	 21 	 0 	 2 	 1 	 1 	 0 	 0 	 3 	 2 	 1 
+San Miguel De Tucuman  	 11 	 1 	 0 	 1 	 3 	 1 	 3 	 0 	 0 	 0 
+Changwat Phra Nakhon Si Ayutthaya  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Selam  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Taroudannt  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Reunion  	 64 	 3 	 3 	 8 	 11 	 2 	 0 	 1 	 1 	 1 
+Tiruchchirappalli  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Hims  	 1 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Hohhot  	 8 	 0 	 0 	 1 	 2 	 0 	 2 	 0 	 0 	 0 
+Niamey  	 3 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Niamey  	 3 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Indianapolis  	 1358 	 68 	 54 	 57 	 225 	 22 	 138 	 77 	 27 	 15 
+Valencia  	 1042 	 24 	 136 	 109 	 149 	 19 	 52 	 50 	 26 	 20 
+Changwat Nakhon Phanom  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Bogor  	 244 	 2 	 23 	 36 	 28 	 1 	 6 	 3 	 7 	 5 
+Lodz  	 148 	 7 	 22 	 14 	 18 	 2 	 11 	 7 	 7 	 6 
+Ad Dammam  	 2 	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Padumdhani  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Xining  	 2 	 0 	 0 	 0 	 0 	 0 	 1 	 0 	 0 	 0 
+Kermanshah  	 18 	 2 	 2 	 1 	 1 	 2 	 0 	 0 	 1 	 0 
+Kahriz  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Liuzhou  	 7 	 0 	 1 	 0 	 3 	 0 	 0 	 0 	 0 	 0 
+Kota  	 120 	 0 	 6 	 11 	 4 	 0 	 10 	 2 	 0 	 2 
+Natal  	 477 	 4 	 52 	 32 	 70 	 3 	 54 	 30 	 17 	 12 
+Bhubaneswar  	 275 	 2 	 10 	  	  	  	  	  	  	  
+Qinhuangdao  	  	  	 1 	 0 	 0 	 0 	 1 	 1 	 0 	 0 
+Hengyang  	 9 	 0 	 1 	 1 	 1 	 0 	 0 	 2 	 0 	 0 
+Antalya  	 136 	 2 	 4 	 14 	 13 	 2 	 2 	 6 	 4 	 0 
+Cebu  	 593 	 12 	 44 	 77 	 88 	 9 	 47 	 19 	 6 	 3 
+Adalia  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Krakow  	 343 	 7 	 49 	 23 	 44 	 10 	 40 	 21 	 8 	 10 
+Aligarh  	 23 	 0 	 0 	 2 	 2 	 0 	 0 	 0 	 0 	 1 
+Da Nang  	 152 	 3 	 19 	 17 	 20 	 14 	 3 	 2 	 4 	 0 
+Naradhivas  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Pietermaritzburg  	 9 	 1 	 0 	 2 	 1 	 0 	 0 	 0 	 0 	 0 
+Taian  	 5 	 0 	 0 	 0 	 1 	 0 	 0 	 1 	 1 	 0 
+Trujillo  	 60 	 0 	 6 	 13 	 8 	 0 	 3 	 3 	 3 	 2 
+Lome  	 15 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 
+Lome  	 15 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 
+Malang  	 506 	 2 	 60 	 97 	 71 	 0 	 8 	 8 	 2 	 3 
+Ciudad Guayana  	 5 	 0 	 2 	 0 	 0 	 0 	 0 	 0 	 1 	 0 
+Amsterdam  	 4861 	 87 	 340 	 429 	 876 	 107 	 300 	 388 	 93 	 96 
+Kigali  	 82 	 0 	 10 	 8 	 8 	 0 	 3 	 6 	 0 	 0 
+Bareli  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Kigali  	 82 	 0 	 10 	 8 	 8 	 0 	 3 	 6 	 0 	 0 
+Kigale  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Teresina  	 172 	 0 	 26 	 21 	 16 	 0 	 23 	 11 	 0 	 1 
+Poti  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 1 	 0 	 0 
+Xinxiang  	 7 	 0 	 0 	 1 	 1 	 1 	 0 	 1 	 0 	 0 
+Sao Bernardo Do Campo  	 3 	 0 	 1 	 1 	 0 	 0 	 0 	 0 	 1 	 0 
+Hegang  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Riga  	 736 	 17 	 75 	 98 	 118 	 15 	 44 	 45 	 19 	 17 
+Taza  	 5 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 1 	 0 
+Astrida  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Columbus  	 1701 	 54 	 132 	 81 	 260 	 47 	 206 	 77 	 28 	 41 
+Oyo  	 6 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Tainan  	 168 	 3 	 22 	 13 	 20 	 2 	 5 	 7 	 11 	 21 
+Quetta  	 19 	 0 	 1 	 2 	 0 	 0 	 5 	 1 	 1 	 0 
+San Francisco  	 28707 	 259 	 1857 	 964 	 5168 	 1104 	 4383 	 2409 	 525 	 540 
+Jhapa  	 5 	 0 	 2 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Campo Grande  	 247 	 2 	 41 	 51 	 23 	 3 	 12 	 5 	 1 	 4 
+Athens  	 2129 	 34 	 254 	 147 	 285 	 31 	 112 	 141 	 57 	 72 
+Ashgabat  	 8 	 0 	 1 	 0 	 1 	 0 	 3 	 0 	 1 	 0 
+Sar-e Pol  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Guadalupe  	 10 	 1 	 1 	 1 	 0 	 0 	 0 	 1 	 1 	 0 
+As Sulaymaniyah  	 2 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Dhanukha  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Cucuta  	 21 	 0 	 2 	 3 	 3 	 1 	 1 	 1 	 0 	 1 
+Moradabad  	 11 	 0 	 1 	 0 	 1 	 0 	 0 	 1 	 0 	 0 
+Langfang  	 3 	 0 	 0 	 0 	 0 	 0 	 0 	 1 	 1 	 0 
+Ningbo  	 159 	 8 	 20 	 7 	 27 	 10 	 3 	 6 	 7 	 5 
+Yantai  	 46 	 0 	 5 	 4 	 8 	 1 	 0 	 4 	 3 	 2 
+Tolyatti  	 11 	 0 	 3 	 1 	 2 	 0 	 1 	 0 	 0 	 1 
+Merida  	 82 	 1 	 4 	 12 	 16 	 1 	 2 	 6 	 6 	 1 
+Tlalnepantla  	 3 	 0 	 1 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Jerusalem  	 179 	 7 	 18 	 12 	 31 	 3 	 9 	 11 	 6 	 6 
+Chisinau  	 268 	 6 	 21 	 38 	 41 	 5 	 27 	 11 	 11 	 7 
+Kailali  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Chonju  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Nouakchott  	 6 	 0 	 0 	 0 	 0 	 0 	 1 	 0 	 0 	 0 
+Zhuzhou  	 5 	 0 	 0 	 0 	 0 	 0 	 0 	 1 	 0 	 0 
+Chihuahua  	 169 	 2 	 15 	 16 	 27 	 0 	 19 	 4 	 0 	 2 
+Bhiwandi  	 2 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Jaboatao  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Rajshahi  	 80 	 0 	 1 	 5 	 11 	 0 	 0 	 1 	 2 	 0 
+Zagreb  	 905 	 41 	 87 	 98 	 111 	 18 	 55 	 61 	 29 	 22 
+Agadair  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Bosna-sarai  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Eva Peron  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Tunes  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Zhangjiakou  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Cluj  	 856 	 34 	 105 	 75 	 128 	 22 	 30 	 47 	 28 	 25 
+Cotonou  	 41 	 0 	 2 	 7 	 6 	 0 	 0 	 1 	 0 	 0 
+Zigong  	 2 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Fuxin  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Enuga  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Tanger  	 17 	 2 	 1 	 2 	 0 	 1 	 0 	 0 	 2 	 1 
+Liaoyang  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Sevilla  	 511 	 6 	 73 	 47 	 75 	 7 	 26 	 66 	 11 	 8 
+Nerima  	 21 	 1 	 3 	 3 	 3 	 1 	 1 	 2 	 1 	 0 
+La Plata  	 257 	 4 	 27 	 22 	 38 	 1 	 20 	 21 	 4 	 10 
+Bangui  	 2 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Kumamoto  	 56 	 1 	 5 	 2 	 5 	 0 	 6 	 3 	 1 	 0 
+Raipur  	 55 	 0 	 4 	 3 	 0 	 0 	 0 	 1 	 0 	 1 
+Austin  	 9128 	 237 	 617 	 400 	 1322 	 214 	 940 	 784 	 214 	 231 
+Adiyaman  	 3 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Osasco  	 59 	 0 	 10 	 6 	 3 	 0 	 2 	 3 	 0 	 2 
+San Luis Potosi  	 24 	 0 	 1 	 3 	 1 	 0 	 1 	 0 	 2 	 0 
+Leui  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Changwat Loei  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Gorakhpur  	 16 	 0 	 1 	 1 	 1 	 0 	 0 	 1 	 1 	 0 
+Ipoh  	 10 	 0 	 1 	 0 	 1 	 0 	 2 	 0 	 0 	 0 
+Zibo  	 16 	 0 	 2 	 1 	 4 	 1 	 0 	 1 	 2 	 0 
+Palermo  	 115 	 3 	 11 	 10 	 16 	 3 	 4 	 3 	 3 	 5 
+Changwat Chachoengsao  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Mississauga  	 243 	 9 	 23 	 15 	 33 	 6 	 8 	 14 	 6 	 7 
+Taounate  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Puyang  	 1 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Nantong  	 21 	 0 	 2 	 0 	 6 	 1 	 0 	 0 	 1 	 2 
+Changwat Sukhothai  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Changwat Sawankhalok  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Mudanjiang  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Santo Andre  	 12 	 0 	 4 	 1 	 0 	 0 	 0 	 1 	 2 	 0 
+Pointe-noire  	 6 	 0 	 0 	 0 	 0 	 0 	 0 	 2 	 0 	 0 
+Aguascalientes  	 108 	 2 	 15 	 11 	 15 	 2 	 3 	 4 	 2 	 0 
+Agadir  	 58 	 0 	 4 	 12 	 8 	 0 	 3 	 2 	 0 	 1 
+Hamilton  	 510 	 21 	 41 	 41 	 62 	 3 	 25 	 35 	 19 	 19 
+Enugu  	 14 	 0 	 2 	 1 	 2 	 0 	 0 	 0 	 0 	 0 
+Kryvyy Rih  	 2 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 1 	 0 
+Acapulco  	 19 	 1 	 0 	 2 	 4 	 0 	 0 	 0 	 0 	 0 
+Joao Pessoa  	 29 	 0 	 6 	 1 	 3 	 0 	 5 	 1 	 1 	 2 
+Ansan  	 21 	 2 	 1 	 1 	 1 	 0 	 2 	 2 	 1 	 1 
+Benghazi  	 2 	 0 	 0 	 0 	 0 	 0 	 2 	 0 	 0 	 0 
+Memphis  	 442 	 3 	 30 	 31 	 48 	 9 	 37 	 27 	 9 	 9 
+Frankfurt Am Main  	 344 	 7 	 33 	 44 	 42 	 12 	 23 	 25 	 11 	 2 
+Krasnodar  	 256 	 14 	 12 	 49 	 33 	 6 	 22 	 13 	 10 	 6 
+Shaoyang  	 1 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 
+Guilin  	 38 	 1 	 4 	 3 	 4 	 2 	 0 	 1 	 2 	 3 
+Sagamihara  	 16 	 0 	 1 	 0 	 3 	 0 	 2 	 0 	 1 	 0 
+Zamboanga City  	 13 	 1 	 0 	 2 	 1 	 0 	 0 	 0 	 0 	 0 
+Colombo  	 828 	 28 	 167 	 80 	 104 	 12 	 16 	 18 	 10 	 9 
+Frankfurt  	 1028 	 21 	 108 	 107 	 121 	 27 	 69 	 71 	 30 	 19 
+Lilongwe  	 19 	 0 	 0 	 2 	 1 	 0 	 7 	 0 	 0 	 0 
+Wahran  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Mar Del Plata  	 145 	 6 	 10 	 17 	 31 	 4 	 8 	 3 	 2 	 2 
+Quebec  	 1152 	 38 	 88 	 68 	 175 	 33 	 79 	 78 	 53 	 30 
+Diyarbakir  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+New South Memphis  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Memphis  	 442 	 3 	 30 	 31 	 48 	 9 	 37 	 27 	 9 	 9 
+Ulyanovsk  	 127 	 6 	 7 	 17 	 20 	 3 	 27 	 3 	 5 	 2 
+Okayama  	 70 	 2 	 6 	 6 	 3 	 2 	 7 	 2 	 2 	 2 
+Zhanjiang  	 6 	 2 	 1 	 0 	 0 	 0 	 0 	 1 	 0 	 0 
+Yogyakarta  	 723 	 6 	 61 	 129 	 98 	 3 	 15 	 16 	 7 	 7 
+Zaragoza  	 366 	 5 	 53 	 32 	 42 	 5 	 15 	 34 	 11 	 17 
+Wroclaw  	 363 	 19 	 45 	 35 	 44 	 13 	 32 	 18 	 23 	 10 
+Anyang  	 21 	 0 	 2 	 1 	 1 	 0 	 0 	 3 	 2 	 1 
+Zhenjiang  	 16 	 0 	 3 	 1 	 3 	 0 	 0 	 3 	 2 	 1 
+Winnipeg  	 539 	 22 	 25 	 39 	 79 	 11 	 62 	 30 	 6 	 20 
+Dandong  	 17 	 1 	 1 	 0 	 4 	 1 	 0 	 0 	 0 	 0 
+Izhevsk  	 128 	 11 	 12 	 19 	 20 	 6 	 5 	 7 	 7 	 2 
+Shaoguan  	 5 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 2 
+Yancheng  	 3 	 0 	 0 	 1 	 1 	 0 	 0 	 0 	 0 	 0 
+Foshan  	 64 	 5 	 9 	 4 	 10 	 1 	 1 	 5 	 4 	 3 
+Contagem  	 38 	 0 	 5 	 2 	 5 	 0 	 1 	 0 	 1 	 1 
+Bhilai  	 49 	 1 	 7 	 0 	 4 	 1 	 0 	 2 	 0 	 0 
+Panshan  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Jibuti  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Saltillo  	 37 	 1 	 1 	 0 	 6 	 0 	 3 	 0 	 0 	 0 
+Ash Shariqah  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Fort Worth  	 442 	 10 	 25 	 33 	 62 	 8 	 32 	 18 	 3 	 9 
+El-hodeidah  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Jamshedpur  	 52 	 0 	 3 	 3 	 6 	 0 	 0 	 6 	 5 	 1 
+Tandjile  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Haikou  	 16 	 0 	 5 	 0 	 0 	 0 	 0 	 1 	 2 	 0 
+Changwat Phichit  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Sao Jose Dos Campos  	 20 	 0 	 2 	 0 	 2 	 0 	 2 	 2 	 2 	 2 
+Changwat Trang  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Mersin  	 20 	 0 	 1 	 2 	 0 	 0 	 1 	 1 	 0 	 0 
+Taizhou  	 10 	 0 	 2 	 2 	 1 	 0 	 1 	 1 	 0 	 0 
+Queretaro  	 77 	 2 	 7 	 6 	 7 	 1 	 6 	 3 	 0 	 1 
+Xingtai  	 1 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Baltimore  	 1800 	 40 	 116 	 101 	 212 	 17 	 177 	 155 	 50 	 53 
+Glasgow  	 1134 	 36 	 80 	 78 	 172 	 21 	 56 	 86 	 35 	 27 
+Yaroslavl  	 126 	 8 	 15 	 9 	 21 	 0 	 4 	 6 	 11 	 4 
+Elazig  	 5 	 1 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Benoni  	 5 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 
+Hamamatsu  	 44 	 4 	 2 	 1 	 6 	 0 	 12 	 2 	 1 	 0 
+Kochi  	 447 	 3 	 32 	 33 	 62 	 6 	 15 	 18 	 6 	 9 
+Amravati  	 11 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 
+Rotterdam  	 965 	 29 	 84 	 128 	 158 	 10 	 37 	 50 	 18 	 15 
+Amaravati  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Abu Dhabi  	 139 	 5 	 5 	 6 	 16 	 2 	 3 	 6 	 5 	 2 
+Hai Phong  	 12 	 0 	 0 	 1 	 3 	 1 	 0 	 0 	 0 	 0 
+Orumiyeh  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Genova  	 104 	 4 	 4 	 7 	 9 	 0 	 4 	 14 	 10 	 5 
+Islamabad  	 706 	 18 	 61 	 38 	 56 	 15 	 11 	 13 	 17 	 6 
+Kirkuk  	 3 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Barnaul  	 101 	 8 	 6 	 21 	 12 	 2 	 2 	 4 	 10 	 2 
+Charlotte  	 1434 	 51 	 95 	 100 	 231 	 25 	 159 	 52 	 10 	 17 
+El Paso  	 125 	 1 	 16 	 13 	 16 	 0 	 10 	 5 	 7 	 1 
+Luancheng  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Mexicali  	 67 	 2 	 8 	 5 	 4 	 0 	 5 	 0 	 0 	 1 
+Hermosillo  	 196 	 7 	 19 	 27 	 34 	 3 	 8 	 7 	 2 	 2 
+Rasht  	 30 	 0 	 1 	 6 	 5 	 0 	 0 	 1 	 1 	 0 
+Dortmund  	 320 	 13 	 49 	 19 	 33 	 9 	 14 	 20 	 12 	 12 
+Kayseri  	 42 	 1 	 1 	 3 	 3 	 3 	 0 	 2 	 1 	 3 
+Abeokuta  	 3 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Caesarea  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Morelia  	 74 	 3 	 5 	 8 	 9 	 1 	 0 	 11 	 0 	 1 
+Stuttgart  	 1125 	 28 	 139 	 118 	 172 	 21 	 36 	 72 	 46 	 45 
+Yingkou  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Eiko  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Chimalhuacan  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Zhangzhou  	 2 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 
+Vladivostok  	 221 	 10 	 21 	 23 	 23 	 2 	 14 	 11 	 19 	 5 
+Irkutsk  	 180 	 4 	 13 	 18 	 29 	 1 	 8 	 18 	 7 	 5 
+Belfast  	 700 	 19 	 58 	 38 	 98 	 12 	 55 	 35 	 11 	 13 
+Genoa  	 90 	 4 	 10 	 2 	 16 	 1 	 5 	 4 	 13 	 5 
+Blantyre  	 18 	 0 	 0 	 0 	 3 	 0 	 0 	 0 	 0 	 0 
+Kingston  	 320 	 8 	 22 	 16 	 47 	 3 	 15 	 21 	 11 	 5 
+Chiclayo  	 40 	 0 	 3 	 10 	 10 	 0 	 0 	 1 	 1 	 0 
+Culiacan  	 33 	 0 	 3 	 5 	 6 	 1 	 1 	 0 	 0 	 0 
+Cuttack  	 15 	 0 	 0 	 1 	 1 	 0 	 1 	 3 	 0 	 0 
+Hachioji  	 27 	 0 	 0 	 0 	 3 	 0 	 1 	 0 	 1 	 3 
+Milwaukee  	 851 	 35 	 64 	 61 	 134 	 21 	 43 	 41 	 10 	 15 
+Xiamen  	 510 	 13 	 65 	 29 	 104 	 23 	 17 	 34 	 22 	 29 
+Khabarovsk  	 81 	 6 	 6 	 8 	 11 	 0 	 3 	 1 	 8 	 1 
+Ussuriyskiy  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Khabarovsk Vtoroy  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Libreville  	 7 	 0 	 1 	 0 	 2 	 0 	 0 	 0 	 0 	 0 
+Kerman  	 23 	 0 	 3 	 3 	 1 	 0 	 0 	 0 	 1 	 1 
+Dusseldorf  	 37 	 1 	 2 	 5 	 4 	 0 	 0 	 2 	 1 	 2 
+Kaifeng  	 8 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 2 
+Essen  	 186 	 4 	 11 	 27 	 29 	 4 	 8 	 9 	 2 	 4 
+Bengbu  	 3 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Bikaner  	 31 	 0 	 2 	 4 	 2 	 2 	 2 	 0 	 0 	 0 
+Banjarmasin  	 21 	 0 	 2 	 0 	 1 	 0 	 1 	 0 	 0 	 1 
+Shihezi  	 1 	 0 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 
+Bouake  	 1 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Bucaramanga  	 87 	 0 	 3 	 3 	 17 	 0 	 1 	 4 	 2 	 3 
+South Boston  	 13 	 2 	 0 	 0 	 3 	 0 	 1 	 3 	 0 	 0 
+Kuching  	 18 	 0 	 0 	 0 	 1 	 0 	 1 	 1 	 3 	 0 
+Poznan  	 285 	 9 	 37 	 26 	 41 	 5 	 17 	 18 	 16 	 9 
+Seattle  	 13469 	 499 	 940 	 470 	 2058 	 276 	 1456 	 1056 	 372 	 321 
+Veracruz  	 131 	 2 	 14 	 13 	 16 	 1 	 3 	 12 	 3 	 3 
+Lisboa  	 358 	 10 	 32 	 27 	 56 	 3 	 14 	 17 	 13 	 10 
+Asmara  	 3 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Sokoto  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Uberlandia  	 40 	 0 	 7 	 3 	 4 	 0 	 3 	 1 	 1 	 1 
+Onitsha  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Onicha  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Funabashi  	 9 	 0 	 0 	 2 	 1 	 1 	 2 	 0 	 1 	 1 
+Hamhung  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Sorocaba  	 200 	 11 	 20 	 15 	 19 	 0 	 17 	 8 	 3 	 9 
+Helsinki  	 2213 	 26 	 251 	 124 	 379 	 29 	 152 	 180 	 55 	 68 
+Malaga  	 115 	 1 	 17 	 6 	 9 	 1 	 5 	 5 	 9 	 4 
+Warangal  	 75 	 0 	 12 	 3 	 6 	 0 	 0 	 13 	 3 	 0 
+Denver  	 4361 	 107 	 254 	 254 	 644 	 106 	 572 	 176 	 61 	 55 
+Santiago  	 2290 	 41 	 168 	 243 	 364 	 30 	 172 	 136 	 49 	 41 
+Santiago De Cuba  	 3 	 0 	 0 	 0 	 0 	 0 	 1 	 0 	 0 	 0 
+Surakarta  	 55 	 1 	 0 	 9 	 4 	 0 	 0 	 0 	 1 	 0 
+Kagoshima  	 22 	 1 	 1 	 1 	 3 	 0 	 2 	 1 	 1 	 0 
+Huaiyin  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Bhavnagar  	 26 	 0 	 6 	 1 	 1 	 1 	 0 	 0 	 0 	 0 
+Mar De Plata  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Bahawalpur  	 28 	 0 	 0 	 1 	 1 	 0 	 2 	 2 	 0 	 0 
+Washington  	 7129 	 143 	 353 	 338 	 1008 	 99 	 633 	 640 	 121 	 129 
+Zahedan  	 6 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 
+Changwat Prachuap Khiri Khan  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Ribeirao Preto  	 18 	 3 	 0 	 2 	 2 	 0 	 0 	 2 	 1 	 0 
+Hamitabat  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Aden  	 5 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Chkalov  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Orenburgskiy  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Orenburg  	 69 	 2 	 10 	 8 	 12 	 0 	 6 	 2 	 1 	 3 
+Jiamusi  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Antipolo  	 15 	 0 	 2 	 1 	 1 	 0 	 1 	 0 	 0 	 0 
+Antipolo  	 15 	 0 	 2 	 1 	 1 	 0 	 1 	 0 	 0 	 0 
+Salta  	 44 	 0 	 10 	 5 	 0 	 0 	 0 	 7 	 1 	 0 
+Chandaburi  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Neijiang  	 2 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Bremen  	 562 	 9 	 67 	 42 	 71 	 15 	 42 	 32 	 35 	 32 
+Meknes  	 11 	 0 	 1 	 2 	 1 	 0 	 1 	 1 	 1 	 0 
+Sharjah  	 40 	 0 	 1 	 0 	 7 	 1 	 0 	 4 	 1 	 1 
+Matola  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Changwat Yasothon  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Al Sharjah  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Djuschambe  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Sargodha  	 20 	 1 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 
+Vilnius  	 835 	 31 	 62 	 100 	 122 	 9 	 70 	 61 	 16 	 18 
+Cancun  	 81 	 3 	 3 	 10 	 17 	 1 	 2 	 2 	 0 	 1 
+Portland  	 6724 	 119 	 319 	 473 	 1078 	 142 	 863 	 531 	 129 	 147 
+Maanshan  	 2 	 0 	 0 	 0 	 0 	 0 	 0 	 1 	 0 	 0 
+Las Vegas  	 1435 	 23 	 64 	 120 	 154 	 22 	 118 	 49 	 27 	 20 
+Changwat Tak  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Yangzhou  	 11 	 0 	 1 	 0 	 1 	 1 	 0 	 1 	 0 	 0 
+Novokuznetsk  	 18 	 0 	 2 	 1 	 4 	 0 	 0 	 1 	 4 	 0 
+Kisangani  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Bor Sa`id  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Warri  	 5 	 0 	 1 	 1 	 1 	 0 	 0 	 0 	 1 	 0 
+Yongkang  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Tanggu  	 2 	 0 	 2 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Oklahoma City  	 434 	 13 	 23 	 35 	 66 	 6 	 34 	 15 	 2 	 12 
+Jiangmen  	 10 	 0 	 1 	 2 	 1 	 1 	 0 	 0 	 0 	 1 
+Changwat Nan  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Nashville  	 1941 	 57 	 76 	 145 	 311 	 42 	 205 	 95 	 26 	 16 
+Beira  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Guntur  	 32 	 0 	 4 	 1 	 2 	 0 	 0 	 0 	 0 	 0 
+Yueyang  	 4 	 0 	 1 	 0 	 0 	 0 	 0 	 1 	 0 	 1 
+Cangzhou  	 2 	 0 	 0 	 0 	 2 	 0 	 0 	 0 	 0 	 0 
+Vaucluse  	 4 	 0 	 0 	 1 	 1 	 0 	 0 	 2 	 0 	 0 
+San Salvador  	 83 	 1 	 7 	 9 	 14 	 1 	 2 	 3 	 2 	 1 
+Changwat Yala  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Torreon  	 17 	 1 	 2 	 0 	 2 	 0 	 0 	 1 	 0 	 0 
+Dehra Dun  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Cuiaba  	 15 	 0 	 2 	 2 	 1 	 0 	 0 	 2 	 0 	 0 
+Khemisset  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Lopez Mateos  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Petaling Jaya  	 56 	 0 	 5 	 4 	 4 	 0 	 3 	 3 	 1 	 0 
+Ryazan  	 96 	 6 	 9 	 8 	 8 	 0 	 1 	 6 	 11 	 5 
+Hanover  	 218 	 2 	 21 	 7 	 32 	 1 	 14 	 17 	 9 	 10 
+Tyumen  	 127 	 3 	 10 	 15 	 22 	 4 	 5 	 16 	 2 	 2 
+Durgapur  	 77 	 2 	 4 	 3 	 5 	 0 	 2 	 7 	 9 	 6 
+Tucson  	 773 	 7 	 49 	 41 	 80 	 15 	 35 	 56 	 18 	 26 
+Quilmes  	 19 	 0 	 1 	 0 	 3 	 0 	 2 	 3 	 1 	 0 
+Ajmer  	 28 	 0 	 0 	 0 	 2 	 0 	 0 	 1 	 1 	 1 
+Felicitas Julia  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Changde  	 5 	 0 	 0 	 1 	 1 	 0 	 0 	 0 	 0 	 0 
+Jiaozuo  	 6 	 1 	 0 	 1 	 1 	 0 	 0 	 0 	 0 	 0 
+Ulhasnagar  	 3 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Kolhapur  	 38 	 2 	 3 	 1 	 2 	 1 	 1 	 0 	 0 	 0 
+Lipetsk  	 35 	 0 	 1 	 6 	 2 	 1 	 1 	 4 	 3 	 0 
+Shiliguri  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Goteborg  	 6 	 0 	 1 	 1 	 1 	 0 	 0 	 0 	 0 	 0 
+Eskisehir  	 39 	 1 	 6 	 2 	 1 	 0 	 2 	 2 	 2 	 0 
+Hamadan  	 7 	 0 	 0 	 0 	 0 	 0 	 1 	 0 	 0 	 0 
+Azadshahr  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Penza  	 107 	 4 	 12 	 6 	 14 	 3 	 11 	 9 	 8 	 3 
+Changwat Phatthalung  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Changwat Chumphon  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Tembisa  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Changwat Uttaradit  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Nikolaev  	 49 	 0 	 3 	 10 	 9 	 2 	 2 	 3 	 1 	 0 
+Khenifra  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Naberezhnyye Morkvashi  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Naberezhnyye Chelny  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Asuncion  	 57 	 1 	 5 	 4 	 7 	 1 	 1 	 9 	 0 	 2 
+San Nicolas De Los Garza  	 4 	 0 	 1 	 2 	 0 	 0 	 0 	 0 	 0 	 0 
+Wuhu  	 16 	 0 	 2 	 3 	 1 	 1 	 1 	 0 	 1 	 3 
+Dang  	 6 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 1 
+Toluca  	 65 	 0 	 9 	 7 	 4 	 1 	 2 	 0 	 2 	 0 
+Niigata  	 51 	 2 	 6 	 4 	 4 	 2 	 4 	 4 	 1 	 2 
+Duisburg  	 98 	 1 	 13 	 13 	 10 	 1 	 2 	 4 	 4 	 3 
+Asansol  	 12 	 0 	 0 	 1 	 1 	 0 	 0 	 3 	 1 	 0 
+Azilal  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Asanol  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Arak  	 12 	 0 	 1 	 1 	 0 	 0 	 0 	 0 	 0 	 1 
+Astrakhan  	 27 	 2 	 1 	 2 	 9 	 1 	 0 	 0 	 0 	 0 
+Cagayan De Oro City  	 32 	 0 	 0 	 2 	 4 	 0 	 2 	 1 	 0 	 0 
+Zhuhai  	 309 	 9 	 39 	 12 	 47 	 14 	 7 	 23 	 16 	 28 
+Gold Coast  	 234 	 5 	 7 	 23 	 30 	 4 	 22 	 4 	 2 	 4 
+Wahren  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Bejraburi  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Oshogbo  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Las Pinas  	 12 	 0 	 0 	 1 	 0 	 0 	 1 	 0 	 0 	 0 
+Shashi  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Reynosa  	 8 	 0 	 0 	 1 	 3 	 0 	 0 	 0 	 0 	 0 
+Makhachkala  	 11 	 0 	 0 	 2 	 2 	 0 	 1 	 2 	 0 	 0 
+Newcastle  	 948 	 27 	 75 	 82 	 153 	 18 	 67 	 43 	 23 	 23 
+Nuremberg  	 235 	 3 	 23 	 23 	 22 	 4 	 28 	 13 	 10 	 10 
+Khouribga  	 2 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Ouarzazate  	 3 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 
+Chimahi  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Tlaquepaque  	 5 	 0 	 0 	 0 	 2 	 0 	 0 	 0 	 0 	 0 
+Taguig  	 57 	 1 	 2 	 12 	 8 	 3 	 1 	 4 	 0 	 0 
+Leipzig  	 734 	 16 	 85 	 109 	 110 	 16 	 54 	 45 	 24 	 13 
+Jamnagar  	 10 	 0 	 0 	 2 	 0 	 0 	 0 	 0 	 0 	 0 
+Panchiao  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Cibitoke  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Aracaju  	 159 	 4 	 22 	 10 	 23 	 1 	 10 	 9 	 2 	 5 
+San Pedro Sula  	 48 	 1 	 16 	 1 	 8 	 0 	 5 	 0 	 1 	 0 
+As Suways  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Albuquerque  	 605 	 7 	 42 	 28 	 58 	 10 	 47 	 47 	 21 	 14 
+Tomsk  	 310 	 20 	 17 	 27 	 47 	 6 	 18 	 22 	 26 	 9 
+Matsuyama  	 9 	 0 	 1 	 2 	 0 	 0 	 1 	 0 	 0 	 0 
+Nanded  	 6 	 0 	 0 	 0 	 0 	 0 	 1 	 0 	 0 	 0 
+Saharanpur  	 4 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 
+Gulbarga  	 6 	 0 	 0 	 0 	 0 	 0 	 0 	 2 	 0 	 0 
+Bhatpara  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Long Beach  	 315 	 3 	 28 	 27 	 30 	 8 	 17 	 10 	 14 	 6 
+An Najaf  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Feira De Santana  	 42 	 0 	 4 	 6 	 7 	 0 	 1 	 2 	 0 	 3 
+Shah Alam  	 41 	 0 	 3 	 4 	 5 	 1 	 7 	 0 	 0 	 2 
+Himeji  	 4 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Tuxtla Gutierrez  	 8 	 0 	 2 	 0 	 2 	 0 	 0 	 0 	 0 	 0 
+Gomel  	 111 	 8 	 18 	 5 	 17 	 5 	 3 	 6 	 3 	 3 
+Dresden  	 910 	 20 	 120 	 84 	 100 	 15 	 39 	 61 	 47 	 51 
+Okene  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Uijongbu  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Hargeysa  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Yazd  	 26 	 0 	 1 	 2 	 4 	 0 	 0 	 0 	 2 	 0 
+Hargeisa  	 5 	 0 	 0 	 0 	 1 	 0 	 1 	 0 	 0 	 0 
+Sialkot  	 29 	 0 	 0 	 3 	 3 	 0 	 0 	 0 	 0 	 0 
+Kemerovo  	 56 	 1 	 2 	 13 	 6 	 1 	 2 	 4 	 1 	 0 
+Yichang  	 17 	 0 	 2 	 0 	 4 	 0 	 0 	 0 	 1 	 0 
+The Hague  	 411 	 15 	 27 	 38 	 62 	 10 	 22 	 31 	 5 	 8 
+Tipaza  	 1 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 
+Cuautitlan Izcalli  	 4 	 0 	 0 	 1 	 1 	 0 	 0 	 0 	 0 	 0 
+Yinchuan  	 11 	 0 	 0 	 0 	 4 	 0 	 3 	 0 	 0 	 0 
+Skopje  	 300 	 21 	 39 	 17 	 45 	 2 	 18 	 14 	 5 	 5 
+Vereeniging  	 3 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Maoming  	 3 	 0 	 1 	 0 	 1 	 0 	 0 	 0 	 0 	 1 
+Londrina  	 195 	 7 	 19 	 19 	 28 	 2 	 18 	 6 	 2 	 0 
+Larache  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Jiaojiang  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Matsudo  	 4 	 0 	 1 	 0 	 1 	 0 	 1 	 0 	 0 	 0 
+Juiz De Fora  	 153 	 2 	 27 	 22 	 19 	 6 	 11 	 3 	 4 	 2 
+San Juan  	 210 	 4 	 15 	 10 	 31 	 0 	 7 	 11 	 1 	 2 
+Liverpool  	 468 	 12 	 29 	 44 	 73 	 7 	 17 	 26 	 15 	 6 
+Nishinomiya  	 7 	 1 	 2 	 1 	 0 	 1 	 1 	 0 	 0 	 0 
+Tula  	 111 	 9 	 8 	 17 	 14 	 4 	 6 	 5 	 2 	 7 
+Kawaguchi  	 3 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Sacramento  	 818 	 13 	 42 	 56 	 118 	 12 	 59 	 37 	 20 	 23 
+Shizuoka  	 98 	 7 	 9 	 6 	 15 	 0 	 13 	 6 	 2 	 3 
+Zunyi  	 2 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 1 
+Jiaxing  	 16 	 1 	 3 	 0 	 3 	 1 	 0 	 1 	 0 	 1 
+Belford Roxo  	 3 	 0 	 0 	 0 	 0 	 0 	 1 	 0 	 0 	 0 
+Jammu  	 57 	 1 	 3 	 8 	 2 	 0 	 1 	 3 	 1 	 0 
+Dongliao  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Fresno  	 278 	 9 	 16 	 24 	 28 	 4 	 18 	 12 	 6 	 3 
+Lyon  	 1822 	 37 	 171 	 328 	 315 	 40 	 73 	 111 	 74 	 59 
+Kananga  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Bloemfontein  	 16 	 1 	 2 	 1 	 2 	 0 	 0 	 0 	 0 	 0 
+Xiangfan  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Gdansk  	 171 	 3 	 24 	 12 	 17 	 2 	 16 	 10 	 7 	 9 
+Calabar  	 36 	 1 	 0 	 0 	 1 	 0 	 0 	 0 	 14 	 0 
+Panzhihua  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Joinville  	 307 	 8 	 34 	 35 	 48 	 5 	 30 	 8 	 4 	 8 
+Zamboanga  	 23 	 1 	 0 	 2 	 2 	 0 	 0 	 0 	 0 	 0 
+Hamah  	 1 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Mixco  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Antwerp  	 485 	 29 	 34 	 65 	 82 	 9 	 27 	 33 	 11 	 12 
+General Santos City  	 7 	 0 	 1 	 0 	 1 	 0 	 0 	 1 	 0 	 0 
+Boayan  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+New Orleans  	 627 	 10 	 23 	 34 	 81 	 9 	 95 	 31 	 7 	 7 
+Kanazawa  	 41 	 0 	 4 	 5 	 9 	 1 	 4 	 2 	 0 	 2 
+Ichikawa  	 10 	 1 	 2 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Burleigh School  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Ujjain  	 14 	 0 	 0 	 1 	 3 	 0 	 2 	 0 	 1 	 0 
+Kirov  	 67 	 1 	 3 	 11 	 12 	 1 	 5 	 7 	 2 	 4 
+Kota Kinabalu  	 27 	 0 	 0 	 4 	 0 	 0 	 6 	 0 	 0 	 0 
+Durango  	 91 	 5 	 7 	 9 	 13 	 3 	 6 	 4 	 0 	 0 
+Niteroi  	 24 	 0 	 2 	 2 	 1 	 0 	 2 	 2 	 5 	 0 
+Hengshui  	 2 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Chitungwiza  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Santa Fe  	 390 	 4 	 24 	 44 	 56 	 2 	 29 	 36 	 11 	 4 
+Gabouk  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Pontianak  	 33 	 0 	 3 	 5 	 2 	 0 	 1 	 0 	 0 	 1 
+Leeds  	 924 	 49 	 42 	 114 	 161 	 17 	 75 	 50 	 11 	 9 
+Bacolod City  	 26 	 0 	 2 	 6 	 1 	 0 	 2 	 0 	 1 	 0 
+Sao Joao De Meriti  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Mansilingan  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Bacolod  	 29 	 0 	 2 	 6 	 1 	 0 	 3 	 0 	 1 	 0 
+Essaouira  	 2 	 0 	 0 	 0 	 2 	 0 	 0 	 0 	 0 	 0 
+Manado  	 17 	 0 	 0 	 0 	 3 	 0 	 1 	 2 	 0 	 0 
+Jining  	 10 	 0 	 1 	 1 	 0 	 0 	 0 	 2 	 0 	 1 
+Constantine  	 16 	 1 	 3 	 1 	 2 	 0 	 1 	 0 	 0 	 0 
+Mesa  	 354 	 7 	 18 	 36 	 49 	 4 	 19 	 17 	 9 	 6 
+Utsunomiya  	 11 	 1 	 4 	 0 	 2 	 0 	 0 	 0 	 0 	 1 
+Urfa  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Cleveland  	 1026 	 45 	 75 	 66 	 120 	 20 	 87 	 85 	 21 	 13 
+Virginia Beach  	 215 	 8 	 15 	 15 	 33 	 3 	 9 	 10 	 1 	 2 
+Chengde  	 5 	 0 	 0 	 0 	 3 	 0 	 0 	 0 	 0 	 0 
+Xuchang  	 3 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 2 
+Oita  	 31 	 1 	 1 	 1 	 4 	 0 	 3 	 1 	 0 	 1 
+Sheffield  	 641 	 12 	 42 	 80 	 76 	 24 	 56 	 47 	 13 	 15 
+Cheboksary  	 61 	 3 	 2 	 8 	 12 	 0 	 8 	 3 	 1 	 3 
+Cagayan De Oro  	 46 	 0 	 0 	 4 	 7 	 0 	 2 	 2 	 0 	 0 
+Boksburg  	 2 	 0 	 0 	 0 	 0 	 0 	 0 	 2 	 0 	 0 
+Kalat  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Rajpur  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Changwat Krabi  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Amagasaki  	 6 	 0 	 0 	 1 	 0 	 0 	 0 	 1 	 1 	 0 
+Malatya  	 9 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 1 	 0 
+North Kansas City  	 5 	 1 	 0 	 0 	 0 	 0 	 0 	 1 	 0 	 0 
+Kansas City  	 1323 	 56 	 99 	 63 	 221 	 19 	 83 	 81 	 22 	 23 
+Kansas City  	 1323 	 56 	 99 	 63 	 221 	 19 	 83 	 81 	 22 	 23 
+Dasmarinas  	 1 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Dasmarinas  	 1 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Nangi  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Pereira  	 69 	 0 	 2 	 8 	 17 	 1 	 3 	 9 	 0 	 0 
+Calicut  	 199 	 2 	 12 	 28 	 31 	 2 	 1 	 13 	 4 	 10 
+Carrefour  	 1 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Iquitos  	 7 	 0 	 0 	 2 	 0 	 0 	 0 	 0 	 0 	 0 
+Mawlamyine  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Baoji  	 2 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 1 	 0 
+Kurashiki  	 8 	 0 	 0 	 1 	 1 	 1 	 1 	 0 	 0 	 0 
+Garoua  	 1 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Mwanza  	 6 	 0 	 0 	 1 	 1 	 0 	 0 	 0 	 0 	 0 
+Kousseri  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Tirunelveli  	 19 	 0 	 1 	 0 	 2 	 0 	 1 	 0 	 0 	 0 
+Edinburgh  	 1712 	 57 	 181 	 115 	 189 	 30 	 131 	 153 	 55 	 43 
+Fort Fureau  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Malegaon  	 3 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 
+Matamoros  	 10 	 0 	 0 	 1 	 2 	 0 	 1 	 0 	 0 	 0 
+Kaliningrad  	 171 	 17 	 8 	 18 	 28 	 2 	 13 	 6 	 6 	 6 
+Geneve  	 30 	 0 	 1 	 1 	 5 	 0 	 3 	 2 	 3 	 2 
+Ananindeua  	 6 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Balikpapan  	 18 	 0 	 1 	 0 	 2 	 0 	 0 	 0 	 0 	 0 
+Brampton  	 84 	 4 	 9 	 5 	 9 	 0 	 4 	 4 	 2 	 2 
+Dadiangas  	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Namangan  	 1 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 	 0 
+Katsina  	 2 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Welkom  	 2 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Santa Marta  	 22 	 0 	 1 	 1 	 3 	 0 	 1 	 1 	 1 	 1 
+El Mahalla El Kubra  	 1 	 0 	 0 	 0 	 1 	 0 	 0 	 0 	 0 	 0 
+Bristol  	 1517 	 63 	 98 	 121 	 255 	 32 	 72 	 105 	 43 	 42 
+Yokosuka  	 18 	 0 	 0 	 1 	 2 	 0 	 1 	 2 	 1 	 0 
+Akola  	 6 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+Belgaum  	 51 	 0 	 2 	 2 	 0 	 0 	 1 	 3 	 2 	 1 
