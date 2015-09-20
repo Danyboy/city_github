@@ -72,8 +72,44 @@ my_merge(){
     done < city
 }
 
+to_html_table(){
+
+start_string='<table cellspacing="0" border="0"> <colgroup span="5" width="85"></colgroup>'
+first_string='<tr><td height="17" align="left"><br></td><td align="left">Город</td><td align="left">Население</td><td align="left">Аккаунтов</td><td align="left">На 1000</td></tr>'
+
+echo $start_string
+echo $first_string
+
+var=1
+
+    while IFS=' ' read city; do
+	echo "<tr>"
+	my_echo "$var"
+    	echo "<td align=\"left\">$(grep -m 1 "$city" $city_people | grep -Eo "[A-z -]+" | tr -d "\n")</td>"
+	p=$( grep -m 1 "$city" $city_people | grep -Eo "[0-9 ]+" | tr -d " ")
+	my_echo "$p"
+	g=$(grep -m 1 "$city" city_github_user | sed "s|"$city"||g")
+	my_echo "$g"
+	gr=$(echo $g | grep -m 1 -Eo "[0-9 ]+")
+	my_echo $(perl -E "say (${gr}/(${p}/1000))" | cut -c1-7)
+	#"
+	echo "</tr>"
+	var=$((var+1))
+
+    done < city
+
+echo '</table>'
+
+
+}
+
+my_echo(){
+echo "<td align=\"right\">$1</td>"
+}
+
 #load_cities
 #load_people
-load_users_per_city_and_language
+#load_users_per_city_and_language
 #load_users_per_city
 #my_merge
+to_html_table
