@@ -84,15 +84,24 @@ var=1
 
     while IFS=' ' read "city"; do
 	echo "<tr>"
+	
 	my_echo "$var"
+	
     	echo "<td align=\"left\">$(grep -m 1 "$city" $city_people | grep -Eo "[A-z -]+" | tr -d "\n")</td>"
-	p=$( grep -m 1 "$city" $city_people | grep -Eo "[0-9 ]+" | tr -d " ")
-	my_echo "$p"
+	
 	g=$(cat city_github_user_per_language | cut -f 1,2 -d$'\t' | grep -m 1 "$city" | sed "s|$city||g")
-	my_echo "$g"
 	gr=$(echo $g | grep -m 1 -Eo "[0-9 ]+")
 	my_echo $(perl -E "say (${gr}/(${p}/1000))" | cut -c1-7)
 	#"
+#	my_echo "$g"
+	
+	p=$( grep -m 1 "$city" $city_people | grep -Eo "[0-9 ]+" | tr -d " ")
+	my_echo "$p"
+
+	echo -n "<td align=\"right\">"
+	cat city_github_user_per_language | grep -m 1 "$city" | cut -f 2,3,4,5,6,7,8,9,10,11 | sed "s|\t|</td><td align=\"right\">|g"
+	echo -n "</td"
+
 	echo "</tr>"
 	var=$((var+1))
 
