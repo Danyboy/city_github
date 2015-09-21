@@ -101,9 +101,9 @@ var=1
     	#echo "<td align=\"left\">$(grep -m 1 "$city" $city_people | grep -Eo "[A-z -]+" | tr -d "\n")</td>"
 	echo "<td align=\"left\">$city</td>"
 	
-	g=$(cat city_github_user_per_language | grep -m 1 "$city" | cut -f 2)
+	g=$(cat city_github_user_per_language | grep -m 1 "^$city  	" | cut -f 2)
 	gr=$(echo $g | grep -m 1 -Eo "[0-9 ]+")
-	p=$( grep -m 1 "$city" $city_people | grep -Eo "[0-9 ]+" | tr -d " ")
+	p=$( grep -m 1 "^$city" $city_people | grep -Eo "[0-9 ]+" | tr -d " ")
 	my_echo $(perl -E "say (${gr}/(${p}/1000))" | cut -c1-7)
 	#"
 #	my_echo "$g"
