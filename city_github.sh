@@ -75,27 +75,29 @@ my_merge(){
 to_html_table(){
 
 start_string='<table cellspacing="0" border="0"> <colgroup span="5" width="85"></colgroup>'
-first_string='<tr><td height="17" align="left"><br></td><td align="left">Город</td><td align="left">Население</td><td align="left">Аккаунтов</td><td align="left">На 1000</td></tr>'
+first_string='<tr><td height="17" align="left"><br></td><td align="left">Город</td><td align="left">Аккаутов на 1000</td><td align="left">Население</td><td align="left">Аккаунтов</td>
+<td align="left">C#</td><td align="left">Java</td><td align="left">PHP</td><td align="left">JavaScript</td><td align="left">Objective-C</td><td align="left">Ruby</td><td align="left">Python</td><td align="left">C++</td><td align="left">C</td>
+</tr>'
 
 echo $start_string
 echo $first_string
 
 var=1
 
-    while IFS=' ' read "city"; do
+    while read "city"; do
 	echo "<tr>"
 	
 	my_echo "$var"
 	
     	echo "<td align=\"left\">$(grep -m 1 "$city" $city_people | grep -Eo "[A-z -]+" | tr -d "\n")</td>"
 	
-	g=$(cat city_github_user_per_language | cut -f 1,2 -d$'\t' | grep -m 1 "$city" | sed "s|$city||g")
+	g=$(cat city_github_user_per_language | grep -m 1 "$city" | cut -f 2)
 	gr=$(echo $g | grep -m 1 -Eo "[0-9 ]+")
+	p=$( grep -m 1 "$city" $city_people | grep -Eo "[0-9 ]+" | tr -d " ")
 	my_echo $(perl -E "say (${gr}/(${p}/1000))" | cut -c1-7)
 	#"
 #	my_echo "$g"
 	
-	p=$( grep -m 1 "$city" $city_people | grep -Eo "[0-9 ]+" | tr -d " ")
 	my_echo "$p"
 
 	echo -n "<td align=\"right\">"
