@@ -1,11 +1,9 @@
 По мотивам <a href="http://geektimes.ru/post/262692/">"Самые оупенсорсные города России"</a> проверил 1000 самых населённых городов мира на количество разработчиков имеющих аккаунт на гитхабе.
 
-В сотню самых программирующих городов из прошлого рейтинга вошла только Москва, она занимает 90 место, а первые пять мест заняли америкаские города.
+В сотню самых программирующих городов из прошлого рейтинга вошла только Москва, она занимает 90 место, а первые пять мест заняли американские города.
 
-Прошу любить, жаловать и анализировать (первая сотня):
-http://htmlpreview.github.io/?https://github.com/Danyboy/city_github/blob/master/calc/city_population_users_promile_sort_by_promile_first_100.html
-
-Пост с таблицей из 1000 городов опубликоваться не смог, его можно посмотреть <a href="http://htmlpreview.github.io/?https://github.com/Danyboy/city_github/blob/master/calc/city_population_users_promile_sort_by_promile.html">тут</a>.
+Прошу любить, жаловать и анализировать (можно сортировать по любому из столбцов, например узнать что больше всего Java программистов в Лондоне):
+http://htmlpreview.github.io/?https://github.com/Danyboy/city_github/blob/master/html/city_users_promile_sorted_by_population_fixed_tab_name_added_sortable.html
 
 Рейтинг был полученен следующим образом.
 
@@ -14,12 +12,28 @@ http://www.tiptopglobe.com/biggest-cities-world?p=0
 
 2) Написан небольшой код на bash (смотреть не советую):
 https://github.com/Danyboy/city_github
+
+Алгоритм:
 - Берём sed'ом название городов и их население с сайта
 - Ищем через апи github сколько человек вписала у себя в аккаунте каждый город. <a href="https://github.com/search?utf8=%E2%9C%93&q=location%3AParis">Пример.</a>
 - Мучительно сводим это вместе
+- Генерируем html
 
-3) Отсортировано и переведено в html таблицу в Calc
+К апи github для получения все информации пришлось сделать 9000 запросов, что занимает очень много времени - для не авторизованных пользователей разрешено только 10 запросов в минуту.
 
 К сожалению, есть неточности, связанные с разным написанием городов (Saint-Petersburg, St-Petersburg), как было отмечено в комментариях к оригинальному посту. Кроме того, на сайте tiptopglobe.com не очень свежая статистика по населению.
 
 С радостью приму пожелания, исправления и подсказки на тему, как можно реализовать перебор по всем вариантам названия городов.
+
+
+Ссылки по теме:
+
+- Красивая визуализация представляющая github комьюнити в виде городов на интерактивной карте:
+http://ekisto.sq.ro/
+Статья о ней:
+http://www.wired.com/2013/12/these-awesome-interactive-maps-show-github-and-stackoverflow-as-sprawling-cities/
+
+- Самые популярные пользователи github
+http://github-awards.com/users?type=city
+Статья 
+http://blog.nodejitsu.com/most-influential-github-users-by-location/

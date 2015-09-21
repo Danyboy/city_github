@@ -74,7 +74,9 @@ my_merge(){
 
 to_html_table(){
 
-start_string='<table cellspacing="0" border="0"> <colgroup span="5" width="85"></colgroup>'
+start_string='<html>
+<script src="http://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+<table class="sortable" cellspacing="0" border="0"> <colgroup span="5" width="85"></colgroup>'
 first_string='<tr><td height="17" align="left"><br></td><td align="left">Город</td><td align="left">Аккаутов на 1000</td><td align="left">Население</td><td align="left">Аккаунтов</td>
 <td align="left">C#</td><td align="left">Java</td><td align="left">PHP</td><td align="left">JavaScript</td><td align="left">Objective-C</td><td align="left">Ruby</td><td align="left">Python</td><td align="left">C++</td><td align="left">C</td>
 </tr>'
@@ -110,6 +112,7 @@ var=1
     done < city_manual_correct
 
 echo '</table>'
+echo '</html>'
 }
 
 my_echo(){
