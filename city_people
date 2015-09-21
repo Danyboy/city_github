@@ -1,5 +1,6 @@
 City Population 
 Tokyo	31 480 498
+Beijing 	14 933 274
 Beijing Shi	14 933 274
 Shanghai	14 608 512
 Buenos Aires	13 076 300
@@ -41,7 +42,7 @@ Madras	4 328 416
 Abia	4 222 476
 Wuhan	4 184 206
 Ogun	4 054 272
-Saint Petersburg	4 039 751
+Saint-Petersburg	4 039 751
 Chongqing	3 967 028
 Xian	3 953 191
 Chengdu	3 950 437
@@ -967,7 +968,6 @@ North Kansas City	442 028
 Kansas City	442 028
 Kansas City	442 028
 Dasmarinas  	441 878
-Dasmarinas	441 876
 Nangi	440 894
 Pereira	440 123
 Calicut	439 922
@@ -999,3 +999,4 @@ Bristol	430 714
 Yokosuka	428 999
 Akola	428 892
 Belgaum	428 756
+Boston	625 087
