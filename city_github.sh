@@ -2,6 +2,7 @@
 
 city_github_user=city_github_user
 city_people=city_people
+city_github_user_per_language=city_github_user_per_language
 
 load_cities(){
 site="http://www.tiptopglobe.com/biggest-cities-world"
@@ -31,31 +32,37 @@ echo "City Population "  > $city_people
     done
 }
 
-load_users_per_city(){
+load_users_per_cities(){
     echo "City Users" > $city_github_user
     while read city ; do
-        echo -n "$city " >> $city_github_user
-        curl -H 'Accept: application/vnd.github.v3.text-match+json'   "https://api.github.com/search/users?q=location:$city" \
-	| grep "total_count" | sed "s|  \"total_count\": ||g" | sed "s|,||" >> $city_github_user
+        load_users_by_city "$city "
         sleep 7
     done < city
 }
 
-load_users_per_city_and_language(){
-    city_github_user_per_language=city_github_user_per_language
+load_users_by_city(){
+	echo -en "$1 \t " >> $city_github_user
+        curl -H 'Accept: application/vnd.github.v3.text-match+json'   "https://api.github.com/search/users?q=location:$1" \
+	| grep "total_count" | sed "s|  \"total_count\": ||g" | sed "s|,||" >> $city_github_user
+}
+
+load_users_per_cities_and_language(){
     echo "City   Users 'C#'  Java     PHP JavaScript Objective-C Ruby Python C++ C" > $city_github_user_per_language
     while read city ; do
-        echo -n "$city " >> $city_github_user_per_language
+	load_users_and_languages_per_city "$city"
+    done < city_manual_correct
+}
+
+load_users_and_languages_per_city(){
+	echo " " >> $city_github_user_per_language
+        echo -n "$1 " >> $city_github_user_per_language
 	for language in '*' "C%23" Java PHP JavaScript Objective-C Ruby Python "C%2B%2B" C ; do
-            #echo -en "\t $language \t" >> $city_github_user_per_language
             echo -en ' \t ' >> $city_github_user_per_language
-            my_city="%22$(echo $city | sed "s| |%20|g")%22"
+            my_city="%22$(echo $1 | sed "s| |%20|g")%22"
     	    curl -H 'Accept: application/vnd.github.v3.text-match+json'   "https://api.github.com/search/users?q=location:${my_city}+language:$language" \
 		| grep "total_count" | sed "s|  \"total_count\": ||g" | sed "s|,||" | tr -d "\n" >> $city_github_user_per_language
 	    sleep 7
 	done
-	echo " " >> $city_github_user_per_language
-    done < city_manual_correct
 }
 
 my_merge(){
@@ -75,7 +82,7 @@ my_merge(){
 to_html_table(){
 
 start_string='<html>
-<script src="http://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+<script src="ftp://updates.etersoft.ru/pub/people/danil/files/js/sorttable.js"></script>
 <table class="sortable" cellspacing="0" border="0"> <colgroup span="5" width="85"></colgroup>'
 first_string='<tr><td height="17" align="left"><br></td><td align="left">Город</td><td align="left">Аккаутов на 1000</td><td align="left">Население</td><td align="left">Аккаунтов</td>
 <td align="left">C#</td><td align="left">Java</td><td align="left">PHP</td><td align="left">JavaScript</td><td align="left">Objective-C</td><td align="left">Ruby</td><td align="left">Python</td><td align="left">C++</td><td align="left">C</td>
@@ -91,7 +98,8 @@ var=1
 	
 	my_echo "$var"
 	
-    	echo "<td align=\"left\">$(grep -m 1 "$city" $city_people | grep -Eo "[A-z -]+" | tr -d "\n")</td>"
+    	#echo "<td align=\"left\">$(grep -m 1 "$city" $city_people | grep -Eo "[A-z -]+" | tr -d "\n")</td>"
+	echo "<td align=\"left\">$city</td>"
 	
 	g=$(cat city_github_user_per_language | grep -m 1 "$city" | cut -f 2)
 	gr=$(echo $g | grep -m 1 -Eo "[0-9 ]+")
@@ -109,7 +117,7 @@ var=1
 	echo "</tr>"
 	var=$((var+1))
 
-    done < city_manual_correct
+    done < city_manual_correct_uniq
 
 echo '</table>'
 echo '</html>'
@@ -121,7 +129,10 @@ echo "<td align=\"right\">$1</td>"
 
 #load_cities
 #load_people
-#load_users_per_city_and_language
+#load_users_per_cities_and_language
 #load_users_per_city
+#load_users_and_languages_per_city Boston
+#load_users_by_city Boston #TODO write test which compare out with Boston ~8808
 #my_merge
+
 to_html_table
