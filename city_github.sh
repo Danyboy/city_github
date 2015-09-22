@@ -111,7 +111,7 @@ var=1
 	my_echo "$p"
 
 	echo -n "<td align=\"right\">"
-	cat city_github_user_per_language | grep -m 1 "$city" | cut -f 2,3,4,5,6,7,8,9,10,11 | sed "s|\t|</td><td align=\"right\">|g"
+	cat city_github_user_per_language | grep -m 1 "^$city  	" | cut -f 2,3,4,5,6,7,8,9,10,11 | sed "s|\t|</td><td align=\"right\">|g"
 	echo -n "</td"
 
 	echo "</tr>"
