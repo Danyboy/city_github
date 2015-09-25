@@ -107,15 +107,14 @@ var=1
 	
 	my_echo "$var"
 	
-    	#echo "<td align=\"left\">$(grep -m 1 "$city" $city_people | grep -Eo "[A-z -]+" | tr -d "\n")</td>"
 	echo "<td align=\"left\">$city</td>"
 	
 	g=$(cat $1 | grep -m 1 "^$city  	" | cut -f 2)
 	gr=$(echo $g | grep -m 1 -Eo "[0-9 ]+")
-	p=$( grep -m 1 "^$city" $2 | grep -Eo "[0-9 ]+" | tr -d " ")
-	my_echo $(perl -E "say (${gr}/(${p}/1000))" | cut -c1-7)
+	p=$( grep -m 1 "^${city}.\?	" $2 | grep -Eo "[0-9 ]+" | tr -d " ")
+	res=$(perl -E "say (${gr}/(${p}/1000))")
+	my_echo  $(perl -E "say sprintf(\"%.5f\", $res)")
 	#"
-#	my_echo "$g"
 	
 	my_echo "$p"
 
