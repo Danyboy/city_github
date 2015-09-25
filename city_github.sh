@@ -149,5 +149,9 @@ echo "<td align=\"right\">$1</td>"
 
 #load_users_for_russian_cities_and_language >> russian_cities_github_user_per_language
 
-to_html_table russian_cities_github_user_per_language cities_of_russia_with_population cities_of_russia
+#to_html_table russian_cities_github_user_per_language cities_of_russia_with_population cities_of_russia
+
+#load_users_per_cities_and_language countries >> countries_github_user_per_language
+
+to_html_table countries_github_user_per_language countries_with_population countries
 
