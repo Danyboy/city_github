@@ -3,7 +3,7 @@
 В сотню самых программирующих городов из прошлого рейтинга вошла только Москва, она занимает 90 место, а первые пять мест заняли американские города.
 
 Прошу любить, жаловать и анализировать (можно сортировать по любому из столбцов, например узнать что больше всего Java программистов в Лондоне):
-http://htmlpreview.github.io/?https://github.com/Danyboy/city_github/blob/master/html/city_users_promile_sorted_by_population_fixed_tab_name_added_sortable.html
+http://danyboy.github.io/city_github/html/city_users_by_population_fixed_repeats.html
 
 Рейтинг был полученен следующим образом.
 
